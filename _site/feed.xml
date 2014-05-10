@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sprites</title>
+        <description>A blog about data visualization.</description>      
+        <link>http://blog.spritesapp.com</link>
+        <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
+        
+            <item>
+                <title>Welcome!</title>
+                <description>&lt;h1 id=&quot;welcome&quot;&gt;Welcome!&lt;/h1&gt;
+
+&lt;p&gt;Welcome to our blog! Here we will be posting information about new and upcoming features, interesting use cases, social events within Sprites and its community and everything else that is related to data visualization.&lt;/p&gt;
+
+&lt;p&gt;Don’t miss a single bit: &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;follow us&lt;/a&gt; on Twitter, &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;like us&lt;/a&gt; on Facebook.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+                <link>http://blog.spritesapp.com/2014/05/01/welcome.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/01/welcome.html</guid>
+            </item>
+        
+    </channel>
+</rss>
