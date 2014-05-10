@@ -85,10 +85,11 @@ ul, ul > li {
 
 .main .content {
     flex: 1;
-    width: 760px;
+    max-width: 760px;
     margin: 0 auto;
     margin-top: 2em;
     margin-bottom: 2em;
+    padding: 0 1em;
 }
 
 .main footer {
@@ -100,12 +101,34 @@ ul, ul > li {
     color: #c3c3c3;
 }
 
+.main .content .landing .all-posts li {
+    line-height: 150%;
+}
+
+.main .content .landing .all-posts li local-time {
+    display: inline-block;
+    width: 5rem;
+}
+
 /* Posts */
 
 .post {
     font-size: 150%;
 }
 
+.post h1 {
+    line-height: 115%;
+}
+
 .post p {
     line-height: 135%;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.post img {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #c3c3c3;
+    box-shadow: 1px 1px 5px #F4F4F4;
 }

@@ -7,6 +7,43 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Social sharing, preview mode and other new features.</title>
+                <description>&lt;h1 id=&quot;social-sharing-preview-mode-and-other-new-features&quot;&gt;Social sharing, preview mode and other new features.&lt;/h1&gt;
+
+&lt;p&gt;It’s a very busy time at Sprites these days - so many great new features are being added and we can’t wait to share the details with you.&lt;/p&gt;
+
+&lt;p&gt;First of all, we’ve added an ability to share infographics on your social networks of choice directly from the editor (available under “Publish” menu item):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/social-sharing.png&quot; alt=&quot;Social sharing&quot; title=&quot;Social sharing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, you can now copy any element and then paste it on the same or a different slide. To copy an element use either the “Document” icon under the element context menu or Ctrl+C (Cmd+C on Mac) shortcut when the element is selected. Once the element is copied, the corresponding notification is displayed in the left main menu (to paste an element simply click on an icon):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/paste-element.png&quot; alt=&quot;Paste element&quot; title=&quot;Paste element&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s now become super-easy to preview your work using a “Preview infographic” link located at the top right corner of the screen (next to the user menu):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/preview-infographic.png&quot; alt=&quot;Preview infographic&quot; title=&quot;Preview infographic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another great little feature that we’ve implemented allows you to reorder slides by using the drag-and-drop method (the new order is saved automatically):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/reorder-slides.png&quot; alt=&quot;Reoder slides&quot; title=&quot;Reoder slides&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, the “Image” element has been substantially improved. Along with the support for &lt;a href=&quot;http://en.wikipedia.org/wiki/Scalable_Vector_Graphics&quot;&gt;SVG&lt;/a&gt;, it’s now possible to select a simple image from the gallery rather than uploading it youself. This mode supports selecting image color as well:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/image-gallery.png&quot; alt=&quot;Image gallery&quot; title=&quot;Image gallery&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That was all for now, we hope you liked the new stuff! &lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Sun, 11 May 2014 00:00:00 +0200</pubDate>
+                <link>http://blog.spritesapp.com/2014/05/11/social-sharing-preview-mode-and-other-new-features.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/11/social-sharing-preview-mode-and-other-new-features.html</guid>
+            </item>
+        
+            <item>
                 <title>Welcome!</title>
                 <description>&lt;h1 id=&quot;welcome&quot;&gt;Welcome!&lt;/h1&gt;
 

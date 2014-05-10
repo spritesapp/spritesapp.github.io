@@ -6,7 +6,7 @@ title: Sprites Blog
 <article class="landing">
     <h1>All posts</h1>
 
-    <ul>
+    <ul class="all-posts">
     {% for post in site.posts %}
         <li>
             <local-time datetime="{{ post.date }}">{{ post.date | date: "%-m/%-d/%Y" }}</local-time>&nbsp;
