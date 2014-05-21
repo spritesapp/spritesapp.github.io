@@ -7,6 +7,61 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Creating your first infographic</title>
+                <description>&lt;h1 id=&quot;creating-your-first-infographic&quot;&gt;Creating your first infographic&lt;/h1&gt;
+
+&lt;p&gt;Today we’re going to go through the process of creating your first infographic with Sprites. We will look at how the editor is structured and what you can do with it. Let’s get started!&lt;/p&gt;
+
+&lt;p&gt;The first thing that you see when you navigate to &lt;a href=&quot;https://spritesapp.com/edit&quot;&gt;spritesapp.com/edit&lt;/a&gt; is the infographic settings modal window:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-infographic-settings.png&quot; alt=&quot;Infographic settings&quot; title=&quot;Infographic settings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you’re being asked to give your infographic a meaningful title (this is not required, although it’s always good to have one) and choose a theme (a theme defines how the elements on your infographic will look like, that is the background color and so on). You can change these settings at any time without the need to create a new infographic.&lt;/p&gt;
+
+&lt;p&gt;Once the above is done, it’s time to add some content! All infographics in Sprites are composed from one or several &lt;em&gt;slides&lt;/em&gt; (this concept is very similar to how you’d create presentations in PowerPoint or Google Presentations). Every slide, in turn, can have one or more &lt;em&gt;elements&lt;/em&gt; (such as text, charts, tables, figures, etc.) placed on it.&lt;/p&gt;
+
+&lt;p&gt;The main menu in Sprites is placed the left side. Here’s how the list of slides looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-slide-list.png&quot; alt=&quot;Slide list&quot; title=&quot;Slide list&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every slide can have a title and description (both are optional) and you can re-order slides by just dragging them around with your mouse (slides are being presented in the order they apper in the editor).&lt;/p&gt;
+
+&lt;p&gt;To add a new element, click “Elements” on the main menu and choose the element you’d like to add onto the current slide:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-list.png&quot; alt=&quot;Element list&quot; title=&quot;Element list&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once selected, the element will appear on the slide. Every element has a number of properties your can tweak (for example, a text for a “Text” element, an image for an “Image” element, tabular data for “Chart” and so on). To bring up element properties pane, select the element by clicking on it. Once selected, element properties will appear in the left menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-properties.png&quot; alt=&quot;Element properties&quot; title=&quot;Element properties&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you’re editing element properties, there’s no “Save” button - you’ll be able to see the changes instantly (these changes are also being saved automatically). When the element is selected (or when the mouse is place over the element), you can see that there’s a &lt;em&gt;context menu&lt;/em&gt; availalbe at the top (sometimes at the bottom):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-on-canvas.png&quot; alt=&quot;Element context menu&quot; title=&quot;Element context menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The “Up” and “Down” arrows are used to re-order elements that are stacked (note that the element that is being gragged is not part of any stack). You can also copy the given element by clicking the “Document” icon. The copied element can then be pasted onto any other (or the same) slide.&lt;/p&gt;
+
+&lt;p&gt;When you’re satisfied with your infographic, you probably want to &lt;em&gt;publish&lt;/em&gt; it so other users can view it. The publishing is done by clicking the “Publish” item in the main menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-publish-settings.png&quot; alt=&quot;Publish settings&quot; title=&quot;Publish settings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a number of settings you can adjust when publising your infographic. For example, you may (or may not) enable player controls so the viewers can navigate through different slides of your infographic manually, if they want to. You may also choose to enabled “Auto play” - this will force the infographic to start presenting the content once it’s loaded. In case you’d like to only display a particular slide (and ignore all others like they’ve never been part of the infographic), you can do so by typing the slide number in “Show only one slide” field. The “Infographic URL” is the publically available URL of your infographic, you can send this to your friends or share it with your network on Facebook or Twitter (there’s also an option to do so right from the editor). Infographics can also be embedded into other pages (for example, you can embed infographic into your blog post), you can read about embedding here: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Embedding-infographics&quot;&gt;Embedding infographics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the top right corner there’s a user menu where you can find all your previous infographics and also from where you can access your account:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-user-menu.png&quot; alt=&quot;User menu&quot; title=&quot;User menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, that’s how easy it is to create infographic with Sprites!&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Wed, 21 May 2014 00:00:00 +0200</pubDate>
+                <link>http://blog.spritesapp.com/2014/05/21/creating-your-first-infographic.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/21/creating-your-first-infographic.html</guid>
+            </item>
+        
+            <item>
                 <title>What is Sprites?</title>
                 <description>&lt;h1 id=&quot;what-is-sprites&quot;&gt;What is Sprites?&lt;/h1&gt;
 
