@@ -7,8 +7,73 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
-                <title>Creating your first infographic</title>
-                <description>&lt;h1 id=&quot;creating-your-first-infographic&quot;&gt;Creating your first infographic&lt;/h1&gt;
+                <title>Importing data from Microsoft Excel and Google Spreadsheets.</title>
+                <description>&lt;h1 id=&quot;importing-data-from-microsoft-excel-and-google-spreadsheets&quot;&gt;Importing data from Microsoft Excel and Google Spreadsheets.&lt;/h1&gt;
+
+&lt;p&gt;Today we’re rolling out a new cool feature - an ability to import data for your charts and tables from various third parties such as Microsoft Excel and Google Spreadsheets. Let’s take a look!&lt;/p&gt;
+
+&lt;p&gt;When you’re opening a data editor (by clicking under “Data to display” in element properties pane) for “Chart” and “Table” elements, you can see that there’s now a new little button called “Import data” at the bottom right corner of the modal window:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-button.png&quot; alt=&quot;Import data&quot; title=&quot;Import data&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When clicked, a new dialog appears allowing you to choose where to import data from. We currently support three options:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Microsoft Excel (.xlsx files) and &lt;a href=&quot;http://en.wikipedia.org/wiki/Comma-separated_values&quot;&gt;CSV&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Google Sheets (formely Google Spreadsheets).&lt;/li&gt;
+  &lt;li&gt;Custom URL.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Let’s look at each option in more detail.&lt;/p&gt;
+
+&lt;p&gt;The “Microsoft Excel” option allows you to upload the XLSX or CSV file from you computer. Once uploaded, you’ll see the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-excel.png&quot; alt=&quot;Import from Excel&quot; title=&quot;Import from Excel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The “Has column names” option allows you to specify whether the first row in the uploaded file contains column headers. The “Has row labels” option indicates whether the first cell in every row contains a text representing a label for a given row. When the file is Microsoft Excel file (and not the CSV file), you can choose from which worksheet to import data (in case there’re multiple worksheets exist).&lt;/p&gt;
+
+&lt;p&gt;The “Google Sheets” option allows you to import data from an arbitrary Google Spreadsheets document. All you need to do is to specify the URL of the document in the text box:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-google.png&quot; alt=&quot;Import from Google Spreadsheets&quot; title=&quot;Import from Google Spreadsheets&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One thing to remember here: the target Google Spreadsheets document must be published (“File -&amp;gt; Publish to the Web…” option in Google Drive).&lt;/p&gt;
+
+&lt;p&gt;The last option, “Custom URL”, makes it possible to take any URL and load data from it as long as on the other end there’s a &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot;&gt;JSON&lt;/a&gt; document with the format that can be understood by Sprites:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-url.png&quot; alt=&quot;Import from URL&quot; title=&quot;Import from URL&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all, folks. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+
+</description>
+                <pubDate>Sun, 25 May 2014 00:00:00 +0200</pubDate>
+                <link>http://blog.spritesapp.com/2014/05/25/importing-data-from-microsoft-excel-and-google-spreadsheets.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/25/importing-data-from-microsoft-excel-and-google-spreadsheets.html</guid>
+            </item>
+        
+            <item>
+                <title>Adding rich content using widgets.</title>
+                <description>&lt;h1 id=&quot;adding-rich-content-using-widgets&quot;&gt;Adding rich content using widgets.&lt;/h1&gt;
+
+&lt;p&gt;We’ve noticed that people got very curious about one particular building block in Sprites - “Widget”. This is, indeed, the most powerful element which allows you to write arbitrary JavaScript and have it executed when the current slide is being presented to the user. With widgets, you can embed custom graphics (for example, Google Visualizations), display videos (YouTube/Vimeo), show social activity (Twitter cards), load live data and much more.&lt;/p&gt;
+
+&lt;p&gt;We’ve put a set of examples for you demonstrating some of the use case: &lt;a href=&quot;https://spritesapp.com/view/embed/3332&quot;&gt;The power of widgets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Make sure to check out the docs as well to see how all the above was implemented: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Adding-rich-content-using-widgets&quot;&gt;Adding rich content using widgets&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Thu, 22 May 2014 00:00:00 +0200</pubDate>
+                <link>http://blog.spritesapp.com/2014/05/22/the-power-of-widgets.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/22/the-power-of-widgets.html</guid>
+            </item>
+        
+            <item>
+                <title>Creating your first infographic.</title>
+                <description>&lt;h1 id=&quot;creating-your-first-infographic&quot;&gt;Creating your first infographic.&lt;/h1&gt;
 
 &lt;p&gt;Today we’re going to go through the process of creating your first infographic with Sprites. We will look at how the editor is structured and what you can do with it. Let’s get started!&lt;/p&gt;
 
@@ -16,21 +81,21 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-infographic-settings.png&quot; alt=&quot;Infographic settings&quot; title=&quot;Infographic settings&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here you’re being asked to give your infographic a meaningful title (this is not required, although it’s always good to have one) and choose a theme (a theme defines how the elements on your infographic will look like, that is the background color and so on). You can change these settings at any time without the need to create a new infographic.&lt;/p&gt;
+&lt;p&gt;Here you’re being asked to give your infographic a meaningful title (this is not required, although it’s always good to have one) and choose a theme (a theme defines how the elements on your infographic will look like, what is the background color and so on). You can change these settings at any time without the need of creating a new infographic.&lt;/p&gt;
 
 &lt;p&gt;Once the above is done, it’s time to add some content! All infographics in Sprites are composed from one or several &lt;em&gt;slides&lt;/em&gt; (this concept is very similar to how you’d create presentations in PowerPoint or Google Presentations). Every slide, in turn, can have one or more &lt;em&gt;elements&lt;/em&gt; (such as text, charts, tables, figures, etc.) placed on it.&lt;/p&gt;
 
-&lt;p&gt;The main menu in Sprites is placed the left side. Here’s how the list of slides looks like:&lt;/p&gt;
+&lt;p&gt;The main menu in Sprites is placed at the left side of the screen. Here’s how the list of slides looks like:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-slide-list.png&quot; alt=&quot;Slide list&quot; title=&quot;Slide list&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Every slide can have a title and description (both are optional) and you can re-order slides by just dragging them around with your mouse (slides are being presented in the order they apper in the editor).&lt;/p&gt;
+&lt;p&gt;Every slide can have a title and a description (both are optional) and you can re-order slides by just dragging them around with your mouse (slides are being presented in the order they apper in the editor).&lt;/p&gt;
 
 &lt;p&gt;To add a new element, click “Elements” on the main menu and choose the element you’d like to add onto the current slide:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-list.png&quot; alt=&quot;Element list&quot; title=&quot;Element list&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Once selected, the element will appear on the slide. Every element has a number of properties your can tweak (for example, a text for a “Text” element, an image for an “Image” element, tabular data for “Chart” and so on). To bring up element properties pane, select the element by clicking on it. Once selected, element properties will appear in the left menu:&lt;/p&gt;
+&lt;p&gt;Once selected, the element will appear on the slide. Every element has a number of properties your can tweak (for example, a text content for a “Text” element, an image source for an “Image” element, tabular data for “Chart” and so on). To bring up element properties pane, select the element by clicking on it. Once selected, element properties will appear in the left menu:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-properties.png&quot; alt=&quot;Element properties&quot; title=&quot;Element properties&quot; /&gt;&lt;/p&gt;
 
@@ -44,7 +109,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-publish-settings.png&quot; alt=&quot;Publish settings&quot; title=&quot;Publish settings&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;There’s a number of settings you can adjust when publising your infographic. For example, you may (or may not) enable player controls so the viewers can navigate through different slides of your infographic manually, if they want to. You may also choose to enabled “Auto play” - this will force the infographic to start presenting the content once it’s loaded. In case you’d like to only display a particular slide (and ignore all others like they’ve never been part of the infographic), you can do so by typing the slide number in “Show only one slide” field. The “Infographic URL” is the publically available URL of your infographic, you can send this to your friends or share it with your network on Facebook or Twitter (there’s also an option to do so right from the editor). Infographics can also be embedded into other pages (for example, you can embed infographic into your blog post), you can read about embedding here: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Embedding-infographics&quot;&gt;Embedding infographics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There’s a number of settings you can adjust when publising your infographic. For example, you may (or may not) enable player controls so the viewers can navigate through different slides of your infographic manually, if they want to. You may also choose to enabled “Auto play” - this will force the infographic to start presenting the content once it’s loaded. In case you’d like to display a particular slide only (and ignore all others like they’ve never been part of the infographic), you can do so by typing the slide number in “Show only one slide” field. The “Infographic URL” is the publically available URL of your infographic, you can send this to your friends or share it with your network on Facebook or Twitter (there’s also an option to do so right from the editor). Infographics can also be embedded into other pages (for example, you can embed infographic into your blog post), you can read about embedding here: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Embedding-infographics&quot;&gt;Embedding infographics&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In the top right corner there’s a user menu where you can find all your previous infographics and also from where you can access your account:&lt;/p&gt;
 
