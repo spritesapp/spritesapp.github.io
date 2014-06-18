@@ -7,8 +7,55 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
-                <title>Importing data from Microsoft Excel and Google Spreadsheets.</title>
-                <description>&lt;h1 id=&quot;importing-data-from-microsoft-excel-and-google-spreadsheets&quot;&gt;Importing data from Microsoft Excel and Google Spreadsheets.&lt;/h1&gt;
+                <title>New charting options</title>
+                <description>&lt;h1 id=&quot;new-charting-options&quot;&gt;New charting options&lt;/h1&gt;
+
+&lt;p&gt;Many people were not that happy with the charting capabilities that Sprites was offering. I’m happy to announce that we’ve substantially improved our charts and I can’t wait to share the details with you.&lt;/p&gt;
+
+&lt;h2 id=&quot;see-it-in-action&quot;&gt;See it in action&lt;/h2&gt;
+
+&lt;p&gt;The best way to introduce a new feature is to show an example. Take a look at the following demonstration: &lt;a href=&quot;https://spritesapp.com/view/embed/4673&quot;&gt;New charts&lt;/a&gt;. &lt;/p&gt;
+
+&lt;h2 id=&quot;switching-gears&quot;&gt;Switching gears&lt;/h2&gt;
+
+&lt;p&gt;With this rather big change what we did first is we replaced &lt;a href=&quot;http://www.chartjs.org/&quot;&gt;Chart.js&lt;/a&gt; (a third-party charting library that we used) with &lt;a href=&quot;https://developers.google.com/chart/interactive/docs/reference&quot;&gt;Google Visualizations&lt;/a&gt;. The main reason for this switch was that Chart.js comes with a very few built-in chart types and also its customization capabilities are quite limited. We didn’t feel like it was a good idea to invest time into improving a library while there’re plenty of alternatives out there (and Google Visualizations is one of the best ones).&lt;/p&gt;
+
+&lt;p&gt;Please note that all existing infographics won’t break and will still use Chart.js for rendering all the charts. At the same time all the new infographics will automatically switch to a new charting engine.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-features&quot;&gt;New features&lt;/h2&gt;
+
+&lt;p&gt;There’re several new chart types that are now available to you. Here’s the full list:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Line chart (was available before)&lt;/li&gt;
+  &lt;li&gt;Area chart (new, separated from Line chart)&lt;/li&gt;
+  &lt;li&gt;Bar chart (was available before)&lt;/li&gt;
+  &lt;li&gt;Pie/Donut chart (were available before)&lt;/li&gt;
+  &lt;li&gt;Bubble chart (new)&lt;/li&gt;
+  &lt;li&gt;Tree Map chart (new)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/chart-types.png&quot; alt=&quot;Chart types&quot; title=&quot;Chart types&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, pretty much all the charts are now showing the legend and the X/Y axis with intermediate points (although, it’s possible to show only the chart area) so it should be much easier for the viewers of your infographic to interpret and understand the data. As for the tooltips (small “bubbles” which are typically used to describe a given area/point on a chart), they can easily be added via “Callout” element.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/chart-line-callout.png&quot; alt=&quot;Callouts and legend&quot; title=&quot;Callouts and legend&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We hope you will like the new charts. If you have any comments/questions/suggestions, feel free to reach out to us at &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or via our &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+
+</description>
+                <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+                <link>http://blog.spritesapp.com/2014/06/19/new-charting-options.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/06/19/new-charting-options.html</guid>
+            </item>
+        
+            <item>
+                <title>Importing data from Microsoft Excel and Google Spreadsheets</title>
+                <description>&lt;h1 id=&quot;importing-data-from-microsoft-excel-and-google-spreadsheets&quot;&gt;Importing data from Microsoft Excel and Google Spreadsheets&lt;/h1&gt;
 
 &lt;p&gt;Today we’re rolling out a new cool feature - an ability to import data for your charts and tables from various third parties such as Microsoft Excel and Google Spreadsheets. Let’s take a look!&lt;/p&gt;
 
@@ -53,8 +100,8 @@
             </item>
         
             <item>
-                <title>Adding rich content using widgets.</title>
-                <description>&lt;h1 id=&quot;adding-rich-content-using-widgets&quot;&gt;Adding rich content using widgets.&lt;/h1&gt;
+                <title>Adding rich content using widgets</title>
+                <description>&lt;h1 id=&quot;adding-rich-content-using-widgets&quot;&gt;Adding rich content using widgets&lt;/h1&gt;
 
 &lt;p&gt;We’ve noticed that people got very curious about one particular building block in Sprites - “Widget”. This is, indeed, the most powerful element which allows you to write arbitrary JavaScript and have it executed when the current slide is being presented to the user. With widgets, you can embed custom graphics (for example, Google Visualizations), display videos (YouTube/Vimeo), show social activity (Twitter cards), load live data and much more.&lt;/p&gt;
 
@@ -72,8 +119,8 @@
             </item>
         
             <item>
-                <title>Creating your first infographic.</title>
-                <description>&lt;h1 id=&quot;creating-your-first-infographic&quot;&gt;Creating your first infographic.&lt;/h1&gt;
+                <title>Creating your first infographic</title>
+                <description>&lt;h1 id=&quot;creating-your-first-infographic&quot;&gt;Creating your first infographic&lt;/h1&gt;
 
 &lt;p&gt;Today we’re going to go through the process of creating your first infographic with Sprites. We will look at how the editor is structured and what you can do with it. Let’s get started!&lt;/p&gt;
 
@@ -153,8 +200,8 @@
             </item>
         
             <item>
-                <title>Social sharing, preview mode and other new features.</title>
-                <description>&lt;h1 id=&quot;social-sharing-preview-mode-and-other-new-features&quot;&gt;Social sharing, preview mode and other new features.&lt;/h1&gt;
+                <title>Social sharing, preview mode and other new features</title>
+                <description>&lt;h1 id=&quot;social-sharing-preview-mode-and-other-new-features&quot;&gt;Social sharing, preview mode and other new features&lt;/h1&gt;
 
 &lt;p&gt;It’s a very busy time at Sprites these days - so many great new features are being added and we can’t wait to share the details with you.&lt;/p&gt;
 

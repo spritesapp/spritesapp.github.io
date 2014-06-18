@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Social sharing, preview mode and other new features.
+title: Social sharing, preview mode and other new features
 ---
 
-# Social sharing, preview mode and other new features.
+# Social sharing, preview mode and other new features
 
 It's a very busy time at Sprites these days - so many great new features are being added and we can't wait to share the details with you.
 

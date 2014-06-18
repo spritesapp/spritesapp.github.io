@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Creating your first infographic.
+title: Creating your first infographic
 ---
 
-# Creating your first infographic.
+# Creating your first infographic
 
 Today we're going to go through the process of creating your first infographic with Sprites. We will look at how the editor is structured and what you can do with it. Let's get started!
 

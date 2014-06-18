@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Importing data from Microsoft Excel and Google Spreadsheets.
+title: Importing data from Microsoft Excel and Google Spreadsheets
 ---
 
-# Importing data from Microsoft Excel and Google Spreadsheets.
+# Importing data from Microsoft Excel and Google Spreadsheets
 
 Today we're rolling out a new cool feature - an ability to import data for your charts and tables from various third parties such as Microsoft Excel and Google Spreadsheets. Let's take a look!
 
