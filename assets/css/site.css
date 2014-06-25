@@ -132,3 +132,8 @@ ul, ul > li {
     border: 1px solid #c3c3c3;
     box-shadow: 1px 1px 5px #F4F4F4;
 }
+
+.post img.image-plain {
+    border: none !important;
+    box-shadow: none !important;
+}
