@@ -17,6 +17,6 @@ Here's an example of what you get:
 
 Enjoy!
 
-Sprites team.
+Pavel and Timofey.
 
 *P.S. Guess what you'll be able to turn your Sprites infographics into after the images (spoiler: we already have this feature working internally)? ;-)*
