@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Downloading infographic as an image
+title: Downloading your infographic as an image
 ---
 
-# Downloading infographic as an image
+# Downloading your infographic as an image
 
 The new cool feature is now available in Sprites - an ability to download invividual slides of your infographic as images! The functionality is accessible via "Publish" menu item:
 
