@@ -5,7 +5,7 @@ title: Downloading your infographic as an image
 
 # Downloading your infographic as an image
 
-The new cool feature is now available in Sprites - an ability to download invividual slides of your infographic as images! The functionality is accessible via "Publish" menu item:
+The new cool feature is now available in [Sprites](https://spritesapp.com) - an ability to download invividual slides of your infographic as images! The functionality is accessible via "Publish" menu item:
 
 ![Image export dialog](/assets/img/posts/image-export-dialog.png "Image export dialog")
 
