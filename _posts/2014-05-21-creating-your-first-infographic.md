@@ -7,7 +7,9 @@ title: Creating your first infographic
 
 Today we're going to go through the process of creating your first infographic with Sprites. We will look at how the editor is structured and what you can do with it. Let's get started!
 
-The first thing that you see when you navigate to [spritesapp.com/edit](https://spritesapp.com/edit) is the infographic settings modal window:
+If you're just looking for a quick introduction, check out the official video: [https://www.youtube.com/watch?v=7jbX8xK5l2Y](Welcome to Sprites!)
+
+So, the first thing that you see when you navigate to [spritesapp.com/edit](https://spritesapp.com/edit) is the infographic settings modal window:
 
 ![Infographic settings](/assets/img/posts/tutorial-infographic-settings.png "Infographic settings")
 
