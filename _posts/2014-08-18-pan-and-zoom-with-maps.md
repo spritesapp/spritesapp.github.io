@@ -17,7 +17,7 @@ Here's how we can pan and zoom the map of United States to bring focus on Texas:
 
 ![Map pan and zoom result](/assets/img/posts/map-pan-and-zoom-result.png "Map pan and zoom result")
 
-We hope you'll find the new functionality useful. If you have any questions or need help, feel free to reach out to use on [Twitter](https://twitter.com/spritesapp) or drop us [an email](https://spritesapp.com/contact) and we will be in touch shortly.
+As always, if you have any questions or need help, feel free to reach out to use on [Twitter](https://twitter.com/spritesapp) or drop us [an email](https://spritesapp.com/contact) and we will be in touch shortly.
 
 Enjoy!
 
