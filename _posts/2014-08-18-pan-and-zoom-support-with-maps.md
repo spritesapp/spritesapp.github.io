@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Pan and zoom support in maps
+title: Pan and zoom support with maps
 ---
 
-# Pan and zoom support in maps
+# Pan and zoom support with maps
 
 Another little improvement that we've just shipped is an ability to pan and zoom the area of your "Map" element. This functionality allows you to focus on specific areas of a map (for example, central Europe) rather than choosing a bigger scale in a hope to achieve the same effect (the latter is still supported, by the way so these two features can be used in conjunction).
 
