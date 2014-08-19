@@ -11,6 +11,8 @@ As part of the admission package we've received three standard attendee tickets 
 
 If you'd like to have the ticket, [send us a message](mailto:volpav+spritesapp@gmail.com?subject=Web+Summit+ticket) explaining why would you like to go and what is it in this great event for you (also, before contacting us, please make sure you will be able to make it to the event). And of course, feel free to share link to this post with your network!
 
+The lucky individual will be announced in a separate blog post in mid. October.
+
 Cheers!
 
 Sprites team.
