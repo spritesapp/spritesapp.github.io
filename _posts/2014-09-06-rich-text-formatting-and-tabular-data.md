@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Rich text editing in tables
+title: Rich text formatting and tabular data
 ---
 
-# Rich text editing in tables
+# Rich text formatting and tabular data
 
 We've noticed that some folks would wish that our "Table" element was a bit more flexible: for example, by allowing the user to insert an image into the table cell. We're happy to tell you that we've made some changes to the way you edit your table data so it's now possible to use rich text formatting capabilities (bold/italic/underline text, custom color and text size, etc.) within each table cell.
 
