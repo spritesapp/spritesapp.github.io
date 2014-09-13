@@ -5,7 +5,7 @@ title: Displaying live data in your infographics
 
 # Displaying live data in your infographics
 
-We're excited to announce a new major feature in Sprites - an ability to display live data in your infographics. This is achieved by connecting selected elements (such as charts, tables, images, etc.) to third-party data sources. 
+We're excited to announce a new major feature in [Sprites](https://spritesapp.com) - an ability to display live data in your infographics. This is achieved by connecting selected elements (such as charts, tables, images, etc.) to third-party data sources. 
 
 Connecting your Sprites elements to live data feeds makes it possible to display various real-time data such as competition results, voting results, live feeds from the various events and so on. This, in turn, will make your infographics much more engaging and up-to-date with latest information on specific topics.
 
