@@ -23,7 +23,7 @@ We use an effective product placement tool, thus shortening the path between ins
 
 When the idea arrived my biggest challenge was to find the right development team for the project. I really thought it was mission impossible VII, given the challenges faced. I called my partner, former CTO from our first startup, and funny fact - he and his coworker were finishing their PhD thesis exactly on the fields necessary for implementation. Together they have +10 years of experience exactly on what is needed to make this project a success.
 
-###*Thanks Manuel! We hope you'll get as much as possible from your trip to Dublin!*
+###*Thanks Manuel! See you in Dublin!*
 
 (End of the Q&A)
 
