@@ -5,7 +5,7 @@ title: And the free ticket to Web Summit goes to... PrimeTag!
 
 # And the free ticket to Web Summit goes to... PrimeTag!
 
-It's with great pleasure we'd like to announce that the free ticket to Web Summit (the one the giveaway for which [we announced](http://blog.spritesapp.com/2014/08/19/get-your-free-ticket-to-web-summit-conference.html) last month) goes to Manuel Albuquerque and the PrimeTag team! We've asked Manuel a couple of questions about his product - here's the little Q&A.
+It's with great pleasure we'd like to announce that the free ticket to Web Summit (the one the giveaway for which [we announced](http://blog.spritesapp.com/2014/08/19/get-your-free-ticket-to-web-summit-conference.html) last month) goes to Manuel Albuquerque and the PrimeTag team! We've asked Manuel a couple of questions about his product - here's the little Q&A:
 
 ###*Manuel, what is PrimeTag? Give us your elevator pitch!*
 
