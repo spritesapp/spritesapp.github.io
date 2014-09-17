@@ -19,9 +19,9 @@ A: I am a surf fanatic and most of my close friends are sponsored by major surf 
 
 A: We use an effective product placement tool, thus shortening the path between instant interest on a product and its access to purchase. If we look closely to nowadays advertising solutions, they are still far from the most interesting point of purchase - I mean far from digital contents. Users engage with products when seen in pictures and videos and that's the point and moment we want to give them the opportunity to know more about them - thus increasing conversion rates. Lastly, we have in place an exquisite team of senior engineers that are willing to push the limits of technology and create the most advanced algorithm on product detection in digital contents. 
 
-*Q: Tell us an interesting fact about PrimeTag?*
+***Q: **Tell us an interesting fact about PrimeTag?*
 
-A: When the idea arrived my biggest challenge was to find the right development team for the project. I really thought it was mission impossible VII, given the challenges faced. I called my partner, former CTO from our first startup, and funny fact - he and his coworker were finishing their PhD thesis exactly on the fields necessary for implementation. Together they have +10 years of experience exactly on what is needed to make this project a success.
+**A: **When the idea arrived my biggest challenge was to find the right development team for the project. I really thought it was mission impossible VII, given the challenges faced. I called my partner, former CTO from our first startup, and funny fact - he and his coworker were finishing their PhD thesis exactly on the fields necessary for implementation. Together they have +10 years of experience exactly on what is needed to make this project a success.
 
 *Thanks Manuel! We hope you'll get as much as possible from your trip to Dublin!*
 
