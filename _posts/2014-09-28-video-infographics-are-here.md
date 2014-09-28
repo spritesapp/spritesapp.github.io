@@ -7,7 +7,7 @@ title: Video infographics are here!
 
 We're extremely excited to announce the beta release of **video infographics** in Sprites! With this feature you can take your entire infographic and export it to a video file. As an option you can specify an audio file of your choice which is great for adding background music or narration.
 
-If you'd like to participate in a beta program, go to [spritesapp.com/video](https://spritesapp.com/video), click "Contact us", fill out the form (don't forget to specify your email so we can contact you back) and we will be in touch shortly with all the details you need to get started!
+If you'd like to participate in our private beta program, go to [spritesapp.com/video](https://spritesapp.com/video), click "Contact us", fill out the form (don't forget to specify your email so we can contact you back) and we will be in touch shortly with all the details you need to get started!
 
 Once video export is enabled for your subscription, you'll see a new option, "Create video", under the "Publish" menu item:
 
