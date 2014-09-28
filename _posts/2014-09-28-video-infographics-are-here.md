@@ -5,11 +5,11 @@ title: Video infographics are here!
 
 # Video infographics are here!
 
-We're extremely excited to announce the beta release of video infographics in Sprites! With this feature you can take your entire infographic and export it to a video file. As an option you can specify an audio file of your choice which is great for adding background music or narration to your infographics.
+We're extremely excited to announce the beta release of **video infographics** in Sprites! With this feature you can take your entire infographic and export it to a video file. As an option you can specify an audio file of your choice which is great for adding background music or narration.
 
-If you'd like to participate in a beta program, go to [spritesapp.com/video]https://spritesapp.com/video, click "Contact us", fill out the form (don't forget to specify your email so we can contact you back) and we will be in touch shortly with all the details you need to get started!
+If you'd like to participate in a beta program, go to [spritesapp.com/video](https://spritesapp.com/video), click "Contact us", fill out the form (don't forget to specify your email so we can contact you back) and we will be in touch shortly with all the details you need to get started!
 
-Once video export is enabled for your subscription plan, you'll see a new option - "Create video" - under the "Publish" menu item:
+Once video export is enabled for your subscription, you'll see a new option, "Create video", under the "Publish" menu item:
 
 ![Create video](/assets/img/posts/video-export-dialog.png "Create video")
 
@@ -17,11 +17,13 @@ You can choose the format of your video file (read, quality) as well as an audio
 
 Let's take a look at the example. Here's a quick infographic about Stanford University:
 
-<iframe width="640" height="480" src="//www.youtube.com/embed/aYLAg78qunY" frameborder="0" allowfullscreen></iframe>
+<iframe class="youtube-video" width="640" height="480" src="//www.youtube.com/embed/aYLAg78qunY" frameborder="0" allowfullscreen></iframe>
 
-([Watch on YouTube](https://www.youtube.com/watch?v=aYLAg78qunY), [View infographic](https://spritesapp.com/edit/12621))
+([Watch on YouTube](https://www.youtube.com/watch?v=aYLAg78qunY), [View infographic](https://spritesapp.com/view/embed/12621))
 
-As always, if you have any feedback (questions, comments, bug reports, etc.) - don't hesitate to reach out to us by using the [contact form](https://spritesapp.com/contact) or connect with us via [Facebook](https://facebook.com/spritesapp) or [Twitter](https://twitter.com/spritesapp).
+Once again, got to [spritesapp.com/video](https://spritesapp.com/video) and sign up for a beta today!
+
+And as always, if you have any feedback (questions, comments, bug reports, etc.) - don't hesitate to reach out to us by using the [contact form](https://spritesapp.com/contact) or connect with us via [Facebook](https://facebook.com/spritesapp) or [Twitter](https://twitter.com/spritesapp).
 
 Enjoy!
 

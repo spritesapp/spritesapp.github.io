@@ -138,3 +138,9 @@ ul, ul > li {
     border: none !important;
     box-shadow: none !important;
 }
+
+.post .youtube-video {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #c3c3c3;
+}
