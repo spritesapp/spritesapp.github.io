@@ -15,11 +15,9 @@ Once video export is enabled for your subscription, you'll see a new option, "Cr
 
 You can choose the format of your video file (read, quality) as well as an audio track to be mixed with the video. Sprites also tells you how long your infographic is going to be playing (the value is approximate although it’s very close to the actual one). When you’re ready, click "Download video" and be patient while we’re exporting your infographic. The time it will take to complete an export is greater than or equal to the length of the video so in the example above, I’d have to wait for at least 1 minute before Sprites offers me the video file. Don’t worry – you’ll be able to track the progress (there will be a countdown timer). Once the export completes, the browser will ask you to save the video file on your disk.
 
-Let's take a look at the example. Here's a quick infographic about Stanford University:
+Let's take a look at the example. Here's a quick infographic about Stanford University ([watch on YouTube](https://www.youtube.com/watch?v=aYLAg78qunY), [view infographic](https://spritesapp.com/view/embed/12621)):
 
 <iframe class="youtube-video" width="640" height="480" src="//www.youtube.com/embed/aYLAg78qunY" frameborder="0" allowfullscreen></iframe>
-
-([Watch on YouTube](https://www.youtube.com/watch?v=aYLAg78qunY), [View infographic](https://spritesapp.com/view/embed/12621))
 
 Once again, got to [spritesapp.com/video](https://spritesapp.com/video) and sign up for a beta today!
 
