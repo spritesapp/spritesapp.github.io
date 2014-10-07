@@ -7,7 +7,7 @@ title: Displaying data from Google Analytics in Sprites
 
 We've just released a nice little addition to our "[Live Data Feeds](http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html)" feature: you can now display real-time data from Google Analytics in Sprites!
 
-The whole set up process should be really straightforward (especially for those who used to compose custom reports in Google Analytics). There's now a new option called "Google Analytics" which is available in the "Live data" modal dialog (to bring up the modal, select an element and click on a little "Bolt" icon in the context menu):
+The whole setup process should be really straightforward (especially for those who used to compose custom reports in Google Analytics). There's now a new option called "Google Analytics" which is available in the "Live data" modal dialog (to bring up the modal, select an element and click on a little "Bolt" icon in the context menu):
 
 ![Google Analytics - Mappings](/assets/img/posts/ga-mappings.png "Google Analytics - Mappings")
 
@@ -17,9 +17,9 @@ Here's another example. Let's say on a bar chart you'd like to display the numbe
 
 ![Google Analytics - Any data](/assets/img/posts/ga-anydata.png "Google Analytics - Any data")
 
-So, you simply select the dimension (in this case, "Platform or Device: Browser") and the metric (in this case, "Sessions: Sessions") and Sprites will display a nice-looking bar chart based on this information. Again, all this should be really straightforward for people who used to work with custom reports in Google Analytics.
+So, you simply select the dimension (in this case, "Platform or Device: Browser") and the metric (in this case, "Sessions: Sessions") and Sprites will show a nice-looking bar chart based on this information. Again, all this should be really straightforward for people who used to work with custom reports in Google Analytics.
 
-Searching for specific dimension or metric is also extremely simply: just start typing what you're looking for and Sprites will offer you options based on what's available in Google Analytics:
+Searching for specific dimension or metric is also extremely simple: just start typing what you're looking for and Sprites will offer you options based on what's available in Google Analytics:
 
 ![Google Analytics - Suggestions](/assets/img/posts/ga-autocomplete.png "Google Analytics - Suggestions")
 
