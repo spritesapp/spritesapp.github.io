@@ -5,7 +5,7 @@ title: Spread a word about Sprites and get a free subscription!
 
 # Spread a word about Sprites and get a free subscription!
 
-Do you think some of your friends/followers would be interested in trying out Sprites? Well, that's great, for both you and your peers! We're kicking off a small referral program which allows you to earn **free 2-month "Pro" subscription** for spereading a word about Sprites!
+Do you think some of your friends/followers would be interested in trying out Sprites? Well, that's great, for both you and your peers! We're kicking off a small referral program which allows you to earn **free 2-month "Pro" subscription** for spreading a word about Sprites!
 
 ![Mentioning Sprites - Facebook](/assets/img/posts/mention-fb.png "Mentioning Sprites - Facebook")
 
