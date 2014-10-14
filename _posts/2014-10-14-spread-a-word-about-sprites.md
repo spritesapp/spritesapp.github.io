@@ -21,7 +21,7 @@ To claim your free stuff do the following:
 
 You can get in touch with us by using our [contact form](https://spritesapp.com/contact) or by writing directly to [Pavel](mailto:volpav+sprites@gmail.com?Subject=You%20were%20mentioned!). 
 
-Remember, your Facebook/Twitter handle is **@spritesapp**.
+Remember, our Facebook/Twitter handle is **@spritesapp**.
 
 Have a great, productive week!
 
