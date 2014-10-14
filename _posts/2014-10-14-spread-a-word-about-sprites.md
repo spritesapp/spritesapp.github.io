@@ -11,7 +11,7 @@ Do you think some of your friends/followers would be interested in trying out Sp
 
 To claim your free stuff do the following:
 
-1. Mention Sprites in your favorite social network (either by mentioning @spritesapp or by including a link to (spritesapp.com)[https://spritesapp.com]).
+1. Mention Sprites in your favorite social network (either by mentioning @spritesapp or by including a link to [spritesapp.com](https://spritesapp.com)).
 
 2. Email us the link to the post as well as your Sprites account details (your name or email address - information you used when you were signing up for Sprites).
 
