@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Automatically uploading your video-infographics on YouTube
+title: Automatically uploading your video infographics on YouTube
 ---
 
-# Automatically uploading your video-infographics on YouTube
+# Automatically uploading your video infographics on YouTube
 
 Hello folks!
 
@@ -13,7 +13,7 @@ Here's now the "Publish" dialog now looks like when you choose "Create video" op
 
 ![YouTube publish](/assets/img/posts/youtube-upload.png "YouTube publish")
 
-Clicking "Enabled" next to "Send to YouTube" will bring up a new window where you'll be asked to kindly give Sprites permission for uploading videos on your behalf. Note that your video will be in "unlisted" state in case you'd like to edit its title, description or tags before making it available to the public.
+Clicking "Enabled" next to "Send to YouTube" will bring up a new window where you'll be kindly asked to give Sprites permission for uploading videos on your behalf. Note that your video will be in "unlisted" state in case you'd like to edit its title, description or tags before making it available to the public.
 
 We hope you'll love the new functionality. As usual, like us on [Facebook](https://facebook.com/spritesapp) or follow us on [Twitter](https://twitter.com/spritesapp) to get product updates, hints and tips on creating great-looking visual content!
 
