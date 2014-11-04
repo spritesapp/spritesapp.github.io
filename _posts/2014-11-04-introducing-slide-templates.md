@@ -9,7 +9,7 @@ Hi guys!
 
 Today marks the beginning of [Web Summit](http://websummit.net/) where our [Tim Voronov](https://twitter.com/ziflex) is sharing our passion for elegant and beautiful visual stories with some of the conference attendees (if you're over there, make sure to stop by the stand **SCL125** to say "Hi").
 
-Today we're also announcing a new handy feature - slide templates. It allows you to get started with Sprites even quicker by letting it generate some visuals (which you can customize, of course) for you when you're adding a new slide.
+Today we're also announcing a new handy feature: slide templates. It allows you to get started with Sprites even quicker by letting it generate some visuals (which you can customize, of course) for you when you're adding a new slide.
 
 Here's how the "New slide" dialog now looks like:
 
