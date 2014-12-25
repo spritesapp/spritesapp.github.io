@@ -9,9 +9,9 @@ Although, it's officially a holiday season, we're as always busy addressing your
 
 When editing the contents of a "Text" element, you can now click on a little "triple dot" icon on the toolbar and get additional text formatting options which include:
 
-- Text justification (left, right, center, justify).
-- Creation of ordered and unordered lists.
-- Subscript and superscript formatting.
+1. Text justification (left, right, center, justify).
+2. Creation of ordered and unordered lists.
+3. Subscript and superscript formatting.
 
 Here's a screenshot of a new toolbar:
 
