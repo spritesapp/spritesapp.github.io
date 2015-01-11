@@ -13,7 +13,7 @@ You can access the new functionality by clicking on "Publish" in the main menu a
 
 ![Download as PDF](/assets/img/posts/download-pdf.png "Download as PDF")
 
-As you can see, you now have a choice: you can export a single slide to JPG image or you can do the same with the entire infographic when you choose "PDF" (thus, when "PDF" is chosen, you don't need to specify which slide you're interested in - the resulting PDF will have a slide from your infographic per page). The "Resolution" parameter corresponds to the image resolution when using "JPG" as output format and the PDF page size when using "PDF".
+As you can see, you now have a choice: you can either export a single slide to JPG image or you can do the same with the entire infographic when you choose "PDF" (thus, when "PDF" is chosen, you don't need to specify which slide you're interested in - the resulting PDF will have a slide from your infographic per page). The "Resolution" parameter corresponds to the image resolution when using "JPG" as output format and the PDF page size when using "PDF".
 
 Enjoy!
 
