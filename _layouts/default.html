@@ -16,32 +16,74 @@
         <meta property="og:type" content="website" />
 
         <link rel="stylesheet" href="/assets/css/normalize.css" type="text/css" />
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic" type="text/css" />
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400" type="text/css" />
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic" type="text/css" />
         <link rel="stylesheet" href="/assets/css/site.css" />
+        <link rel="stylesheet" href="/assets/css/responsive.css" />
     </head>
 
-    <body>
+    <body class="{{ page.css }}">
         <section class="main">
             <header>
-                <a href="/" title="Sprites Blog">Sprites / <span>Blog</span></a>
+                <div class="primary-stripe"></div>
+
+                <nav class="primary font-os">
+                    <div class="logo">
+                        <a href="/" title="Sprites">
+                            <span class="back"></span>
+                            <span class="front"></span>
+                        </a>
+                    </div>
+
+                    <ul>
+                        <li>
+                            <a href="https://spritesapp.com/features">Features</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/video">Video</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/examples">Examples</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/pricing">Pricing</a>
+                        </li>
+
+                        <li class="testimonials">
+                            <a href="https://spritesapp.com/testimonials">Testimonials</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/contact">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <div id="sign-in" class="font-os">
+                    <a href="https://spritesapp.com/edit">
+                        <span>Sign in</span>
+                    </a>
+                </div>
+
+                <div id="hero-text">
+                    <h1>All Things Visualized.</h1>
+                    <h2>A blog about data visualization from the <a href="https://spritesapp.com">Sprites</a> team.</h2>
+                </div>
+                
             </header>
 
-            <nav>
-                <ul>
-                    <li><a href="/" title="View all posts">Posts</a></li>
-                    <li><a href="https://spritesapp.com/edit" title="Open Sprites">Sprites</a></li>
-                    <li><a href="https://spritesapp.com/features" title="About Sprites">About</a></li>
-                    <li><a href="https://spritesapp.com/contact" title="Contact Sprites team">Contact</a></li>
-                    <li><a href="/feed.xml" title="RSS feed">RSS</a></li>
-                </ul>
-            </nav>
+            
 
             <div class="content">
                 {{ content }}
             </div>
 
             <footer>
-                <small>&copy; 2014 Sprites</small>
+                <small><a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/feed.xml" title="RSS feed">RSS Feed</a></small>
+                <small class="last">&copy; 2015 Sprites</small>
             </footer>
         </section>
 

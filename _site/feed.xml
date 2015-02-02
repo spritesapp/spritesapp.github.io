@@ -7,273 +7,341 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
-                <title>We are going to The Summit!</title>
-                <description>&lt;h1 id=&quot;we-are-going-to-the-summit&quot;&gt;We are going to The Summit!&lt;/h1&gt;
+                <title>Exporting your infographic to PDF</title>
+                <description>&lt;h1 id=&quot;exporting-your-infographic-to-pdf&quot;&gt;Exporting your infographic to PDF&lt;/h1&gt;
 
-&lt;p&gt;It’s with great pleasure I’d like to announce that Sprites was selected for &lt;a href=&quot;http://summitdublin.com/startups/alpha&quot;&gt;Alpha, the early stage startup track&lt;/a&gt; at &lt;a href=&quot;http://summitdublin.com&quot;&gt;The Summit&lt;/a&gt; (one of the largest and most amazing tech conferences in Europe). This means that we’re going to Dublin this November!&lt;/p&gt;
+&lt;p&gt;Hi folks,&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://summitdublin.com&quot;&gt;
-    &lt;img src=&quot;/assets/img/posts/the-summit.png&quot; class=&quot;image-plain&quot; style=&quot;width: 300px&quot; alt=&quot;The Summit&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We hope you had a great, refreshing holiday time. Today’s post is about yet another little (but awesome) feature we’ve introduced just a couple of days ago: it’s now possible to export your entire infographic to PDF file! &lt;/p&gt;
 
-&lt;p&gt;What does this mean for us? It means that we’re doing the right thing (and, by the way, thank you ALL for your feedback and support!). We’re extremely thankful for this kind of recognition and for the opportunity we’ve got.&lt;/p&gt;
+&lt;p&gt;You can access the new functionality by clicking on “Publish” in the main menu and then navigating to the “Download” (former “Download as image”) tab:&lt;/p&gt;
 
-&lt;p&gt;What do we expect from The Summit? To listen to many inspiring speakers, to grasp some of their knowledge, to meet a lot of great people and, of course, to present Sprites and get some valuable feedback on the product, direction and vision.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/download-pdf.png&quot; alt=&quot;Download as PDF&quot; title=&quot;Download as PDF&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Hope to see many of you at The Summit!&lt;/p&gt;
+&lt;p&gt;As you can see, you now have a choice: you can either export a single slide to JPG image or you can do the same with the entire infographic when you choose “PDF” (thus, when “PDF” is chosen, you don’t need to specify which slide you’re interested in - the resulting PDF will have a slide from your infographic per page). The “Resolution” parameter corresponds to the image resolution when using “JPG” as output format and the PDF page size when using “PDF”.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
 </description>
-                <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/06/25/we-are-going-to-the-summit.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/06/25/we-are-going-to-the-summit.html</guid>
+                <pubDate>Sat, 10 Jan 2015 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2015/01/10/exporting-your-infographic-to-pdf.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/01/10/exporting-your-infographic-to-pdf.html</guid>
             </item>
         
             <item>
-                <title>New charting options</title>
-                <description>&lt;h1 id=&quot;new-charting-options&quot;&gt;New charting options&lt;/h1&gt;
+                <title>New text editing capabilities</title>
+                <description>&lt;h1 id=&quot;new-text-editing-capabilities&quot;&gt;New text editing capabilities&lt;/h1&gt;
 
-&lt;p&gt;Many people were not that happy with the charting capabilities that Sprites was offering. I’m happy to announce that we’ve substantially improved our charts and I can’t wait to share the details with you.&lt;/p&gt;
+&lt;p&gt;Although, it’s officially a holiday season, we’re as always busy addressing your wishes and improving Sprites. Today’s little addition - new text editing capabilies.&lt;/p&gt;
 
-&lt;h2 id=&quot;see-it-in-action&quot;&gt;See it in action&lt;/h2&gt;
-
-&lt;p&gt;The best way to introduce a new feature is to show an example. Take a look at the following demonstration: &lt;a href=&quot;https://spritesapp.com/view/embed/4673&quot;&gt;New charts&lt;/a&gt;. &lt;/p&gt;
-
-&lt;h2 id=&quot;switching-gears&quot;&gt;Switching gears&lt;/h2&gt;
-
-&lt;p&gt;With this rather big change what we did first is we replaced &lt;a href=&quot;http://www.chartjs.org/&quot;&gt;Chart.js&lt;/a&gt; (a third-party charting library that we used) with &lt;a href=&quot;https://developers.google.com/chart/interactive/docs/reference&quot;&gt;Google Visualizations&lt;/a&gt;. The main reason for this switch was that Chart.js comes with a very few built-in chart types and also its customization capabilities are quite limited. We didn’t feel like it was a good idea to invest time into improving a library while there’re plenty of alternatives out there (and Google Visualizations is one of the best ones).&lt;/p&gt;
-
-&lt;p&gt;Please note that all existing infographics won’t break and will still use Chart.js for rendering all the charts. At the same time all the new infographics will automatically switch to a new charting engine.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-features&quot;&gt;New features&lt;/h2&gt;
-
-&lt;p&gt;There’re several new chart types that are now available to you. Here’s the full list:&lt;/p&gt;
+&lt;p&gt;When editing the contents of a “Text” element, you can now click on a little “triple dot” icon on the toolbar and get additional text formatting options which include:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Line chart (was available before)&lt;/li&gt;
-  &lt;li&gt;Area chart (new, separated from Line chart)&lt;/li&gt;
-  &lt;li&gt;Bar chart (was available before)&lt;/li&gt;
-  &lt;li&gt;Pie/Donut chart (were available before)&lt;/li&gt;
-  &lt;li&gt;Bubble chart (new)&lt;/li&gt;
-  &lt;li&gt;Tree Map chart (new)&lt;/li&gt;
+  &lt;li&gt;Text justification (left, right, center, justify).&lt;/li&gt;
+  &lt;li&gt;Creation of ordered and unordered lists.&lt;/li&gt;
+  &lt;li&gt;Subscript and superscript formatting.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/chart-types.png&quot; alt=&quot;Chart types&quot; title=&quot;Chart types&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here’s a screenshot of a new toolbar:&lt;/p&gt;
 
-&lt;p&gt;Also, pretty much all the charts are now showing the legend and the X/Y axis with intermediate points (although, it’s possible to show only the chart area) so it should be much easier for the viewers of your infographic to interpret and understand the data. As for the tooltips (small “bubbles” which are typically used to describe a given area/point on a chart), they can easily be added via “Callout” element.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/text-options.png&quot; alt=&quot;Formatting options&quot; title=&quot;Formatting options&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/chart-line-callout.png&quot; alt=&quot;Callouts and legend&quot; title=&quot;Callouts and legend&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The same functionality is available when editing the contents of a callout or when editing tables.&lt;/p&gt;
 
-&lt;p&gt;We hope you will like the new charts. If you have any comments/questions/suggestions, feel free to reach out to us at &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or via our &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also, for the “Text” element you can now specify the maximum allowed width of a text block by using the slider:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/max-text-width.png&quot; alt=&quot;Maximum text width&quot; title=&quot;Maximum text width&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s all for now! As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating great-looking visual content!&lt;/p&gt;
+
+&lt;p&gt;Have a great holidays!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Thu, 25 Dec 2014 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2014/12/25/new-text-editing-capabilities.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/12/25/new-text-editing-capabilities.html</guid>
+            </item>
+        
+            <item>
+                <title>Introducing slide templates</title>
+                <description>&lt;h1 id=&quot;introducing-slide-templates&quot;&gt;Introducing slide templates&lt;/h1&gt;
+
+&lt;p&gt;Hi guys!&lt;/p&gt;
+
+&lt;p&gt;Today marks the beginning of &lt;a href=&quot;http://websummit.net/&quot;&gt;Web Summit&lt;/a&gt; where our &lt;a href=&quot;https://twitter.com/ziflex&quot;&gt;Tim Voronov&lt;/a&gt; is sharing our passion for elegant and beautiful visual stories with some of the conference attendees (if you’re over there, make sure to stop by the stand &lt;strong&gt;SCL125&lt;/strong&gt; to say “Hi”).&lt;/p&gt;
+
+&lt;p&gt;Today we’re also announcing a new handy feature: slide templates. It allows you to get started with Sprites even quicker by letting it generate some visuals (which you can customize, of course) for you when you’re adding a new slide.&lt;/p&gt;
+
+&lt;p&gt;Here’s how the “New slide” dialog now looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/slide-template-new.png&quot; alt=&quot;New slide&quot; title=&quot;New slide&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see, there’s now a new field called “Template” which allows you to pick from the current set of eight template. Once selected, you can immediately test the results and then customize them later during the process:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/slide-template-result.png&quot; alt=&quot;Template result&quot; title=&quot;Template result&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s about it! As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating great-looking visual content!&lt;/p&gt;
 
 &lt;p&gt;Cheers!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
-
 </description>
-                <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/06/19/new-charting-options.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/06/19/new-charting-options.html</guid>
+                <pubDate>Tue, 04 Nov 2014 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2014/11/04/introducing-slide-templates.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/11/04/introducing-slide-templates.html</guid>
             </item>
         
             <item>
-                <title>Importing data from Microsoft Excel and Google Spreadsheets</title>
-                <description>&lt;h1 id=&quot;importing-data-from-microsoft-excel-and-google-spreadsheets&quot;&gt;Importing data from Microsoft Excel and Google Spreadsheets&lt;/h1&gt;
+                <title>Automatically uploading your video infographics on YouTube</title>
+                <description>&lt;h1 id=&quot;automatically-uploading-your-video-infographics-on-youtube&quot;&gt;Automatically uploading your video infographics on YouTube&lt;/h1&gt;
 
-&lt;p&gt;Today we’re rolling out a new cool feature - an ability to import data for your charts and tables from various third parties such as Microsoft Excel and Google Spreadsheets. Let’s take a look!&lt;/p&gt;
+&lt;p&gt;Hello folks!&lt;/p&gt;
 
-&lt;p&gt;When you’re opening a data editor (by clicking under “Data to display” in element properties pane) for “Chart” and “Table” elements, you can see that there’s now a new little button called “Import data” at the bottom right corner of the modal window:&lt;/p&gt;
+&lt;p&gt;We’ve got a new, very handy feature for you today: when exporting your Sprites infographic to a video, you can now enable “Send to YouTube” option which will automatically upload your infographic on YouTube once the export is finished! This makes it so much easier to share and spread great visual stories - definitely a huge win!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-button.png&quot; alt=&quot;Import data&quot; title=&quot;Import data&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Here’s now the “Publish” dialog now looks like when you choose “Create video” option:&lt;/p&gt;
 
-&lt;p&gt;When clicked, a new dialog appears allowing you to choose where to import data from. We currently support three options:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/youtube-upload.png&quot; alt=&quot;YouTube publish&quot; title=&quot;YouTube publish&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clicking “Enabled” next to “Send to YouTube” will bring up a new window where you’ll be kindly asked to give Sprites permission for uploading videos on your behalf. &lt;/p&gt;
+
+&lt;p&gt;Note that your video will be in &lt;strong&gt;“unlisted”&lt;/strong&gt; state in case you’d like to edit its title, description or tags before making it available to the public.&lt;/p&gt;
+
+&lt;p&gt;We hope you’ll love the new functionality. As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating great-looking visual content!&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 21 Oct 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/10/21/automatically-uploading-your-video-infographics-on-youtube.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/21/automatically-uploading-your-video-infographics-on-youtube.html</guid>
+            </item>
+        
+            <item>
+                <title>Spread a word about Sprites and get a free subscription!</title>
+                <description>&lt;h1 id=&quot;spread-a-word-about-sprites-and-get-a-free-subscription&quot;&gt;Spread a word about Sprites and get a free subscription!&lt;/h1&gt;
+
+&lt;p&gt;Do you think some of your friends/followers would be interested in trying out Sprites? Well, that’s great, for both you and your peers! We’re kicking off a small referral program which allows you to earn &lt;strong&gt;free 2-month “Pro” subscription&lt;/strong&gt; for spreading a word about Sprites!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/mention-fb.png&quot; alt=&quot;Mentioning Sprites - Facebook&quot; title=&quot;Mentioning Sprites - Facebook&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To claim your free stuff do the following:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Microsoft Excel (.xlsx files) and &lt;a href=&quot;http://en.wikipedia.org/wiki/Comma-separated_values&quot;&gt;CSV&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Google Sheets (formely Google Spreadsheets).&lt;/li&gt;
-  &lt;li&gt;Custom URL.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mention Sprites in your favorite social network (either by mentioning @spritesapp or by including a link to &lt;a href=&quot;https://spritesapp.com&quot;&gt;spritesapp.com&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Email us the link to the post as well as your Sprites account details (your name or email address - information you used when you were signing up for Sprites).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We will respond to you with a free 2-moth “Pro” subscription as well as a big “Thank you” letter :-)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Let’s look at each option in more detail.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/mention-tw.png&quot; alt=&quot;Mentioning Sprites - Twitter&quot; title=&quot;Mentioning Sprites - Twitter&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The “Microsoft Excel” option allows you to upload the XLSX or CSV file from you computer. Once uploaded, you’ll see the following:&lt;/p&gt;
+&lt;p&gt;You can get in touch with us by using our &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt; or by writing directly to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#118;&amp;#111;&amp;#108;&amp;#112;&amp;#097;&amp;#118;&amp;#043;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&amp;#063;&amp;#083;&amp;#117;&amp;#098;&amp;#106;&amp;#101;&amp;#099;&amp;#116;&amp;#061;&amp;#089;&amp;#111;&amp;#117;&amp;#037;&amp;#050;&amp;#048;&amp;#119;&amp;#101;&amp;#114;&amp;#101;&amp;#037;&amp;#050;&amp;#048;&amp;#109;&amp;#101;&amp;#110;&amp;#116;&amp;#105;&amp;#111;&amp;#110;&amp;#101;&amp;#100;&amp;#033;&quot;&gt;Pavel&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-excel.png&quot; alt=&quot;Import from Excel&quot; title=&quot;Import from Excel&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Remember, our Facebook/Twitter handle is &lt;strong&gt;@spritesapp&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;The “Has column names” option allows you to specify whether the first row in the uploaded file contains column headers. The “Has row labels” option indicates whether the first cell in every row contains a text representing a label for a given row. When the file is Microsoft Excel file (and not the CSV file), you can choose from which worksheet to import data (in case there’re multiple worksheets exist).&lt;/p&gt;
-
-&lt;p&gt;The “Google Sheets” option allows you to import data from an arbitrary Google Spreadsheets document. All you need to do is to specify the URL of the document in the text box:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-google.png&quot; alt=&quot;Import from Google Spreadsheets&quot; title=&quot;Import from Google Spreadsheets&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One thing to remember here: the target Google Spreadsheets document must be published (“File -&amp;gt; Publish to the Web…” option in Google Drive).&lt;/p&gt;
-
-&lt;p&gt;The last option, “Custom URL”, makes it possible to take any URL and load data from it as long as on the other end there’s a &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot;&gt;JSON&lt;/a&gt; document with the format that can be understood by Sprites:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/import-url.png&quot; alt=&quot;Import from URL&quot; title=&quot;Import from URL&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That’s all, folks. Enjoy!&lt;/p&gt;
+&lt;p&gt;Have a great, productive week!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
-
 </description>
-                <pubDate>Sun, 25 May 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/05/25/importing-data-from-microsoft-excel-and-google-spreadsheets.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/25/importing-data-from-microsoft-excel-and-google-spreadsheets.html</guid>
+                <pubDate>Tue, 14 Oct 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/10/14/spread-a-word-about-sprites.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/14/spread-a-word-about-sprites.html</guid>
             </item>
         
             <item>
-                <title>Adding rich content using widgets</title>
-                <description>&lt;h1 id=&quot;adding-rich-content-using-widgets&quot;&gt;Adding rich content using widgets&lt;/h1&gt;
+                <title>Displaying data from Google Analytics in Sprites</title>
+                <description>&lt;h1 id=&quot;displaying-data-from-google-analytics-in-sprites&quot;&gt;Displaying data from Google Analytics in Sprites&lt;/h1&gt;
 
-&lt;p&gt;We’ve noticed that people got very curious about one particular building block in Sprites - “Widget”. This is, indeed, the most powerful element which allows you to write arbitrary JavaScript and have it executed when the current slide is being presented to the user. With widgets, you can embed custom graphics (for example, Google Visualizations), display videos (YouTube/Vimeo), show social activity (Twitter cards), load live data and much more.&lt;/p&gt;
+&lt;p&gt;We’ve just released a nice little addition to our “&lt;a href=&quot;http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html&quot;&gt;Live Data Feeds&lt;/a&gt;” feature: you can now display real-time data from Google Analytics in Sprites!&lt;/p&gt;
 
-&lt;p&gt;We’ve put a set of examples for you demonstrating some of the use case: &lt;a href=&quot;https://spritesapp.com/view/embed/3332&quot;&gt;The power of widgets&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The whole setup process should be really straightforward (especially for those who used to compose custom reports in Google Analytics). There’s now a new option called “Google Analytics” which is available in the “Live data” modal dialog (to bring up the modal, select an element and click on a little “Bolt” icon in the context menu):&lt;/p&gt;
 
-&lt;p&gt;Make sure to check out the docs as well to see how all the above was implemented: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Adding-rich-content-using-widgets&quot;&gt;Adding rich content using widgets&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/ga-mappings.png&quot; alt=&quot;Google Analytics - Mappings&quot; title=&quot;Google Analytics - Mappings&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;The “View ID” (formerly, “Profile ID”) field allows you to specify where to read your Google Analytics data from (if you have a Google Analytics account, you should have at least one view or a profile). Next, you can choose for which date period to select the data (for example, you can tell Sprites to pull the numbers for the last month or for the entire year). The last thing you need to do is you need to tell Sprites which Google Analytics data goes where for the given element by using the “Assign metrics to fields” table (in the example above I’m mapping “Bounce rate” to the percentage of items to highlight in the “Figure” element).&lt;/p&gt;
+
+&lt;p&gt;Here’s another example. Let’s say on a bar chart you’d like to display the number of user sessions by browser. In this case the settings will look a bit different:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/ga-anydata.png&quot; alt=&quot;Google Analytics - Any data&quot; title=&quot;Google Analytics - Any data&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, you simply select the dimension (in this case, “Platform or Device: Browser”) and the metric (in this case, “Sessions: Sessions”) and Sprites will show a nice-looking bar chart based on this information. Again, all this should be really straightforward for people who used to work with custom reports in Google Analytics.&lt;/p&gt;
+
+&lt;p&gt;Searching for specific dimension or metric is also extremely simple: just start typing what you’re looking for and Sprites will offer you options based on what’s available in Google Analytics:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/ga-autocomplete.png&quot; alt=&quot;Google Analytics - Suggestions&quot; title=&quot;Google Analytics - Suggestions&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating amazing infographics and online presentations!&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
 </description>
-                <pubDate>Thu, 22 May 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/05/22/the-power-of-widgets.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/22/the-power-of-widgets.html</guid>
+                <pubDate>Tue, 07 Oct 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/10/07/displaying-your-google-analytics-data-in-sprites.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/07/displaying-your-google-analytics-data-in-sprites.html</guid>
             </item>
         
             <item>
-                <title>Creating your first infographic</title>
-                <description>&lt;h1 id=&quot;creating-your-first-infographic&quot;&gt;Creating your first infographic&lt;/h1&gt;
+                <title>Latest editor improvements</title>
+                <description>&lt;h1 id=&quot;latest-editor-improvements&quot;&gt;Latest editor improvements&lt;/h1&gt;
 
-&lt;p&gt;Today we’re going to go through the process of creating your first infographic with Sprites. We will look at how the editor is structured and what you can do with it. Let’s get started!&lt;/p&gt;
+&lt;p&gt;Although we’re working hard on getting &lt;a href=&quot;https://spritesapp.com/video&quot;&gt;video infographics&lt;/a&gt; out of the beta, we still spend quite alot of time improving the overal experience and satisfying your wishes :-) Let’s take a look at what has been added to Sprites during the last week.&lt;/p&gt;
 
-&lt;p&gt;The first thing that you see when you navigate to &lt;a href=&quot;https://spritesapp.com/edit&quot;&gt;spritesapp.com/edit&lt;/a&gt; is the infographic settings modal window:&lt;/p&gt;
+&lt;h3 id=&quot;locking-elements-in-a-given-position&quot;&gt;Locking elements in a given position&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-infographic-settings.png&quot; alt=&quot;Infographic settings&quot; title=&quot;Infographic settings&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can now lock an element in its current position so that you don’t accidentally move it. In order to lock an element, click on a “lock” icon which is now available within the element’s context menu:&lt;/p&gt;
 
-&lt;p&gt;Here you’re being asked to give your infographic a meaningful title (this is not required, although it’s always good to have one) and choose a theme (a theme defines how the elements on your infographic will look like, what is the background color and so on). You can change these settings at any time without the need of creating a new infographic.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-lock.png&quot; alt=&quot;Locking element position&quot; title=&quot;Locking element position&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Once the above is done, it’s time to add some content! All infographics in Sprites are composed from one or several &lt;em&gt;slides&lt;/em&gt; (this concept is very similar to how you’d create presentations in PowerPoint or Google Presentations). Every slide, in turn, can have one or more &lt;em&gt;elements&lt;/em&gt; (such as text, charts, tables, figures, etc.) placed on it.&lt;/p&gt;
+&lt;h3 id=&quot;displaying-elements-current-coordinates-when-moving&quot;&gt;Displaying element’s current coordinates when moving&lt;/h3&gt;
 
-&lt;p&gt;The main menu in Sprites is placed at the left side of the screen. Here’s how the list of slides looks like:&lt;/p&gt;
+&lt;p&gt;Sometime you want to get really precise when moving elements around. Now you can actually see element’s current position (X/Y coordinates) when you are dragging it with your mouse:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-slide-list.png&quot; alt=&quot;Slide list&quot; title=&quot;Slide list&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-coordinates.png&quot; alt=&quot;Element coordinates&quot; title=&quot;Element coordinates&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Every slide can have a title and a description (both are optional) and you can re-order slides by just dragging them around with your mouse (slides are being presented in the order they apper in the editor).&lt;/p&gt;
+&lt;h3 id=&quot;selecting-multiple-elements&quot;&gt;Selecting multiple elements&lt;/h3&gt;
 
-&lt;p&gt;To add a new element, click “Elements” on the main menu and choose the element you’d like to add onto the current slide:&lt;/p&gt;
+&lt;p&gt;This one is a long-awaited feature! You can now select multiple elements with your mouse the same way you select icons on your desktop. When multiple elements are selected, you can move them around as a whole or you can delete them altogether:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-list.png&quot; alt=&quot;Element list&quot; title=&quot;Element list&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-multi-select.png&quot; alt=&quot;Selecting multiple elements&quot; title=&quot;Selecting multiple elements&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Once selected, the element will appear on the slide. Every element has a number of properties your can tweak (for example, a text content for a “Text” element, an image source for an “Image” element, tabular data for “Chart” and so on). To bring up element properties pane, select the element by clicking on it. Once selected, element properties will appear in the left menu:&lt;/p&gt;
+&lt;h3 id=&quot;more-precise-font-size-selection&quot;&gt;More precise font size selection&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-properties.png&quot; alt=&quot;Element properties&quot; title=&quot;Element properties&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;When editing text, it’s sometimes hard to match the font size among multiple blocks using the “Font size” slider. As part of the latest update you can see what’s the current font size being selected for a given text:&lt;/p&gt;
 
-&lt;p&gt;When you’re editing element properties, there’s no “Save” button - you’ll be able to see the changes instantly (these changes are also being saved automatically). When the element is selected (or when the mouse is place over the element), you can see that there’s a &lt;em&gt;context menu&lt;/em&gt; availalbe at the top (sometimes at the bottom):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-font-size.png&quot; alt=&quot;Text font size&quot; title=&quot;Text font size&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-element-on-canvas.png&quot; alt=&quot;Element context menu&quot; title=&quot;Element context menu&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;various-sizes-for-events-element&quot;&gt;Various sizes for Events element&lt;/h3&gt;
 
-&lt;p&gt;The “Up” and “Down” arrows are used to re-order elements that are stacked (note that the element that is being gragged is not part of any stack). You can also copy the given element by clicking the “Document” icon. The copied element can then be pasted onto any other (or the same) slide.&lt;/p&gt;
+&lt;p&gt;The Events element gained an improvement: you can now specify its relative size using the radio buttons:&lt;/p&gt;
 
-&lt;p&gt;When you’re satisfied with your infographic, you probably want to &lt;em&gt;publish&lt;/em&gt; it so other users can view it. The publishing is done by clicking the “Publish” item in the main menu:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-relative-events.png&quot; alt=&quot;Events element size&quot; title=&quot;Events element size&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-publish-settings.png&quot; alt=&quot;Publish settings&quot; title=&quot;Publish settings&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;And that’s all for now!&lt;/p&gt;
 
-&lt;p&gt;There’s a number of settings you can adjust when publising your infographic. For example, you may (or may not) enable player controls so the viewers can navigate through different slides of your infographic manually, if they want to. You may also choose to enabled “Auto play” - this will force the infographic to start presenting the content once it’s loaded. In case you’d like to display a particular slide only (and ignore all others like they’ve never been part of the infographic), you can do so by typing the slide number in “Show only one slide” field. The “Infographic URL” is the publically available URL of your infographic, you can send this to your friends or share it with your network on Facebook or Twitter (there’s also an option to do so right from the editor). Infographics can also be embedded into other pages (for example, you can embed infographic into your blog post), you can read about embedding here: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Embedding-infographics&quot;&gt;Embedding infographics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating amazing infographics and online presentations!&lt;/p&gt;
 
-&lt;p&gt;In the top right corner there’s a user menu where you can find all your previous infographics and also from where you can access your account:&lt;/p&gt;
+&lt;p&gt;All the best,&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/tutorial-user-menu.png&quot; alt=&quot;User menu&quot; title=&quot;User menu&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, that’s how easy it is to create infographic with Sprites!&lt;/p&gt;
-
-&lt;p&gt;Cheers!&lt;/p&gt;
-
-&lt;p&gt;Sprites team.&lt;/p&gt;
+&lt;p&gt;Pavel and Timofey.&lt;/p&gt;
 </description>
-                <pubDate>Wed, 21 May 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/05/21/creating-your-first-infographic.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/21/creating-your-first-infographic.html</guid>
+                <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/10/01/latest-editor-improvements.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/01/latest-editor-improvements.html</guid>
             </item>
         
             <item>
-                <title>What is Sprites?</title>
-                <description>&lt;h1 id=&quot;what-is-sprites&quot;&gt;What is Sprites?&lt;/h1&gt;
+                <title>Video infographics are here!</title>
+                <description>&lt;h1 id=&quot;video-infographics-are-here&quot;&gt;Video infographics are here!&lt;/h1&gt;
 
-&lt;p&gt;Let’s take a minute to discuss what &lt;a href=&quot;https://spritesapp.com&quot;&gt;Sprites&lt;/a&gt; actually is, why we started it and what are the goals we’re pursuing with it.&lt;/p&gt;
+&lt;p&gt;We’re extremely excited to announce the beta release of &lt;strong&gt;video infographics&lt;/strong&gt; in Sprites! With this feature you can take your entire infographic and export it to a video file. As an option you can specify an audio file of your choice which is great for adding background music or narration.&lt;/p&gt;
 
-&lt;p&gt;So, in a nutshell, Sprites is a free tool for creating great-looking visual presentations on the Web without you needing any design skills. While there’s already a number of existing solutions like Sprites on the market, here’s how we’re different:&lt;/p&gt;
+&lt;p&gt;If you’d like to participate in our private beta program, go to &lt;a href=&quot;https://spritesapp.com/video&quot;&gt;spritesapp.com/video&lt;/a&gt;, click “Contact us”, fill out the form (don’t forget to specify your email so we can contact you back) and we will be in touch shortly with all the details you need to get started!&lt;/p&gt;
 
-&lt;p&gt;1) We tried to make Sprites as simple to use as possible without sacrificing the essential functionality. It’s frustrating when your data visualization tool of choice is powerful enough but too complex to use (you could as well just fire up Illustrator instead - at least this one is familiar to more people). On the other hand, it’s equally sad when what you can achieve with the given software is too basic, although the learning curve is short. Sprites takes the good from both ends: it gives you pretty much everything you need to compose great visual stories, plus a bit of additional flexibility.&lt;/p&gt;
+&lt;p&gt;Once video export is enabled for your subscription, you’ll see a new option, “Create video”, under the “Publish” menu item:&lt;/p&gt;
 
-&lt;p&gt;2) Sprites loves the Web and so everything we do is very Web-focused. For example, Sprites infographic is nothing more than just an HTML page with some CSS and JavaScript applied to it. This makes your infographics more accessible and allows you to easily target broader audience. We also try to leverage all the latest Web technologies in order to improve your visual stories even further. For example, all Sprites infographics come with slick CSS-based animations and are fully scalable with the help from CSS responsive units. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/video-export-dialog.png&quot; alt=&quot;Create video&quot; title=&quot;Create video&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;3) Having a large, vibrant and friendly community is one of the top priorities for us. Good people around can always help you with inspiration and together we can make Sprites so much better! Because of that we put a lot of effort into making Sprites as extensible as possible: already today you can &lt;a href=&quot;https://github.com/spritesapp/sprites-themes/&quot;&gt;create your own themes&lt;/a&gt; and incorporate custom elements/logic onto your infographic, we’re currently working on a &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk&quot;&gt;comprehensive JavaScript SDK&lt;/a&gt; which will allow you to customize the behavior and the flow of your visuals even further.&lt;/p&gt;
+&lt;p&gt;You can choose the format of your video file (read, quality) as well as an audio track to be mixed with the video. Sprites also tells you how long your infographic is going to be playing (the value is approximate although it’s very close to the actual one). When you’re ready, click “Download video” and be patient while we’re exporting your infographic. The time it will take to complete an export is greater than or equal to the length of the video so in the example above, I’d have to wait for at least 1 minute before Sprites offers me the video file. Don’t worry – you’ll be able to track the progress (there will be a countdown timer). Once the export completes, the browser will ask you to save the video file on your disk.&lt;/p&gt;
 
-&lt;p&gt;So, to sum up all the above and to answer the original question “What is Sprites?”, Sprites is simple (yet powerful), web-based and community-friendly data visualization tool. Try it out at &lt;a href=&quot;https://spritesapp.com&quot;&gt;spritesapp.com&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Let’s take a look at the example. Here’s a quick infographic about Stanford University (&lt;a href=&quot;https://www.youtube.com/watch?v=aYLAg78qunY&quot;&gt;watch on YouTube&lt;/a&gt;, &lt;a href=&quot;https://spritesapp.com/view/embed/12621&quot;&gt;view infographic&lt;/a&gt;):&lt;/p&gt;
 
-&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;iframe class=&quot;youtube-video&quot; width=&quot;640&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/aYLAg78qunY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Once again, got to &lt;a href=&quot;https://spritesapp.com/video&quot;&gt;spritesapp.com/video&lt;/a&gt; and sign up for a beta today!&lt;/p&gt;
+
+&lt;p&gt;And as always, if you have any feedback (questions, comments, bug reports, etc.) - don’t hesitate to reach out to us by using the &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt; or connect with us via &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
-
 </description>
-                <pubDate>Thu, 15 May 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/05/15/what-is-sprites.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/15/what-is-sprites.html</guid>
+                <pubDate>Sun, 28 Sep 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/09/28/video-infographics-are-here.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/28/video-infographics-are-here.html</guid>
             </item>
         
             <item>
-                <title>Social sharing, preview mode and other new features</title>
-                <description>&lt;h1 id=&quot;social-sharing-preview-mode-and-other-new-features&quot;&gt;Social sharing, preview mode and other new features&lt;/h1&gt;
+                <title>And the free ticket to Web Summit goes to... PrimeTag!</title>
+                <description>&lt;h1 id=&quot;and-the-free-ticket-to-web-summit-goes-to-primetag&quot;&gt;And the free ticket to Web Summit goes to… PrimeTag!&lt;/h1&gt;
 
-&lt;p&gt;It’s a very busy time at Sprites these days - so many great new features are being added and we can’t wait to share the details with you.&lt;/p&gt;
+&lt;p&gt;It’s with great pleasure we’d like to announce that the free ticket to Web Summit (the one the giveaway for which &lt;a href=&quot;http://blog.spritesapp.com/2014/08/19/get-your-free-ticket-to-web-summit-conference.html&quot;&gt;we announced&lt;/a&gt; last month) goes to Manuel Albuquerque and the PrimeTag team! We’ve asked Manuel a couple of questions about his product - here’s the little Q&amp;amp;A:&lt;/p&gt;
 
-&lt;p&gt;First of all, we’ve added an ability to share infographics on your social networks of choice directly from the editor (available under “Publish” menu item):&lt;/p&gt;
+&lt;h3 id=&quot;manuel-what-is-primetag-give-us-your-elevator-pitch&quot;&gt;&lt;em&gt;Manuel, what is PrimeTag? Give us your elevator pitch!&lt;/em&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/social-sharing.png&quot; alt=&quot;Social sharing&quot; title=&quot;Social sharing&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;PrimeTag is a technology that uses an advanced algorithm to identify products or suggest similar and most profitable ones in digital contents. &lt;/p&gt;
 
-&lt;p&gt;Next, you can now copy any element and then paste it on the same or a different slide. To copy an element use either the “Document” icon under the element context menu or Ctrl+C (Cmd+C on Mac) shortcut when the element is selected. Once the element is copied, the corresponding notification is displayed in the left main menu (to paste an element simply click on an icon):&lt;/p&gt;
+&lt;h3 id=&quot;how-did-you-come-up-with-an-idea-for-primetag&quot;&gt;&lt;em&gt;How did you come up with an idea for PrimeTag?&lt;/em&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/paste-element.png&quot; alt=&quot;Paste element&quot; title=&quot;Paste element&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I am a surf fanatic and most of my close friends are sponsored by major surf brands. One thing I realized was that they used constantly photos and vids from their amazing trips to not only promote their skills but also their sponsoring brands. It’s funny! There was no product’s link between the photo/vid and the e-store of the brand, thus missing an opportunity right away to generate a sale. At that time I understood it was a big opportunity to tackle. In one hand to create brand’s awareness and increase sales and in the other hand to give my close friends a revenue stream. After partnering with Paulo Gaspar, this idea evolved to something that can really change the perception of online advertising. &lt;/p&gt;
 
-&lt;p&gt;It’s now become super-easy to preview your work using a “Preview infographic” link located at the top right corner of the screen (next to the user menu):&lt;/p&gt;
+&lt;h3 id=&quot;whats-so-unique-about-the-product&quot;&gt;&lt;em&gt;What’s so unique about the product?&lt;/em&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/preview-infographic.png&quot; alt=&quot;Preview infographic&quot; title=&quot;Preview infographic&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We use an effective product placement tool, thus shortening the path between instant interest on a product and its access to purchase. If we look closely to nowadays advertising solutions, they are still far from the most interesting point of purchase - I mean far from digital contents. Users engage with products when seen in pictures and videos and that’s the point and moment we want to give them the opportunity to know more about them - thus increasing conversion rates. Lastly, we have in place an exquisite team of senior engineers that are willing to push the limits of technology and create the most advanced algorithm on product detection in digital contents. &lt;/p&gt;
 
-&lt;p&gt;Another great little feature that we’ve implemented allows you to reorder slides by using the drag-and-drop method (the new order is saved automatically):&lt;/p&gt;
+&lt;h3 id=&quot;tell-us-an-interesting-fact-about-primetag&quot;&gt;&lt;em&gt;Tell us an interesting fact about PrimeTag?&lt;/em&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/reorder-slides.png&quot; alt=&quot;Reoder slides&quot; title=&quot;Reoder slides&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;When the idea arrived my biggest challenge was to find the right development team for the project. I really thought it was mission impossible VII, given the challenges faced. I called my partner, former CTO from our first startup, and funny fact - he and his coworker were finishing their PhD thesis exactly on the fields necessary for implementation. Together they have +10 years of experience exactly on what is needed to make this project a success.&lt;/p&gt;
 
-&lt;p&gt;Finally, the “Image” element has been substantially improved. Along with the support for &lt;a href=&quot;http://en.wikipedia.org/wiki/Scalable_Vector_Graphics&quot;&gt;SVG&lt;/a&gt;, it’s now possible to select a simple image from the gallery rather than uploading it youself. This mode supports selecting image color as well:&lt;/p&gt;
+&lt;h3 id=&quot;thanks-manuel-see-you-in-dublin&quot;&gt;&lt;em&gt;Thanks Manuel! See you in Dublin!&lt;/em&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/image-gallery.png&quot; alt=&quot;Image gallery&quot; title=&quot;Image gallery&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;(End of the Q&amp;amp;A)&lt;/p&gt;
 
-&lt;p&gt;That was all for now, we hope you liked the new stuff! &lt;/p&gt;
+&lt;p&gt;We’d also like to say a huge “Thank you!” to all those amazing people who has shown their interest and told us their stories. A special “Thanks” goes to Michael Reen and the Bleepr team for their great story about the trip across Europe they’re organizing to promote their app. Hope to see you in Dublin, Michael! &lt;/p&gt;
 
-&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;Take care everybody!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
 </description>
-                <pubDate>Sun, 11 May 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/05/11/social-sharing-preview-mode-and-other-new-features.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/11/social-sharing-preview-mode-and-other-new-features.html</guid>
+                <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/09/16/and-the-free-ticket-to-web-summit-goes-to-primetag.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/16/and-the-free-ticket-to-web-summit-goes-to-primetag.html</guid>
             </item>
         
             <item>
-                <title>Welcome!</title>
-                <description>&lt;h1 id=&quot;welcome&quot;&gt;Welcome!&lt;/h1&gt;
+                <title>Displaying live data in your infographics</title>
+                <description>&lt;h1 id=&quot;displaying-live-data-in-your-infographics&quot;&gt;Displaying live data in your infographics&lt;/h1&gt;
 
-&lt;p&gt;Welcome to our blog! Here we will be posting information about new and upcoming features, interesting use cases, social events within Sprites and its community and everything else that is related to data visualization.&lt;/p&gt;
+&lt;p&gt;We’re excited to announce a new major feature in &lt;a href=&quot;https://spritesapp.com&quot;&gt;Sprites&lt;/a&gt; - an ability to display live data in your infographics. This is achieved by connecting selected elements (such as charts, tables, images, etc.) to third-party data sources. &lt;/p&gt;
 
-&lt;p&gt;Don’t miss a single bit: &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;follow us&lt;/a&gt; on Twitter, &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;like us&lt;/a&gt; on Facebook.&lt;/p&gt;
+&lt;p&gt;Connecting your Sprites elements to live data feeds makes it possible to display various real-time data such as competition results, voting results, live feeds from the various events and so on. This, in turn, will make your infographics much more engaging and up-to-date with latest information on specific topics.&lt;/p&gt;
 
-&lt;p&gt;Stay tuned!&lt;/p&gt;
+&lt;p&gt;Here’s how it works. When you hover over an element in Sprites editor, you may notice that there’s a new context menu item which now appears (it has a “lightning” icon):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/realtime-contextmenu.png&quot; alt=&quot;Connect to live data feed&quot; title=&quot;Connect to live data feed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once clicked, a modal window appears allowing you to configure live data feed for the given element:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/realtime-dialog.png&quot; alt=&quot;Connect to live data feed - dialog&quot; title=&quot;Connect to live data feed - dialog&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every Sprites element works with its own data format. For example, Fact element, among other things, accepts (or “understands”) three properties: “quantity”, “measure” and “description” that can be set by using the respective form fields when you’re composing your infographic inside the editor.&lt;/p&gt;
+
+&lt;p&gt;When using live data feeds, Sprites expects the data in a same format to be returned from the feed. For example, when you connect your Fact element to Google Sheets, you will need to define three columns in your spreadsheet: “quantity”, “measure” and “description”. This way Sprites can easily pick up cell values for each of the columns and display them to the user.&lt;/p&gt;
+
+&lt;p&gt;Currently, we support connecting elements to Google Sheets as well as to a custom URL (which must return a valid &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot;&gt;JSON&lt;/a&gt; objects). Furthermore, out of the current twelve Sprites elements ten support connecting live data. The only two elements that don’t support live data feeds are Line and Widget.&lt;/p&gt;
+
+&lt;p&gt;We’ve put together a set of spreadsheets, one for each element, to illustrate how your live feed should look like. The spreadsheets are available here: &lt;a href=&quot;https://drive.google.com/open?id=0B19ekNcwy_ciME5Tcm1JdVJXMXc&amp;amp;authuser=0&quot;&gt;Sprites - Live data feeds&lt;/a&gt;. If you’d like to test elements yourself, feel free to use the links to the respective sample spreadsheets in your infographics (open the spreadsheet in your browser, copy the URL from the browser address bar and use that URL when configuring your element). &lt;/p&gt;
+
+&lt;p&gt;There’s also a quite comprehensive documentation on live data format available on our GitHub Wiki: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Live-data-format&quot;&gt;Live data format - Sprites&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Try it out and let us know what you think! You can connect with us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or by sending us a message via our &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
 
 &lt;p&gt;Sprites team.&lt;/p&gt;
 </description>
-                <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
-                <link>http://blog.spritesapp.com/2014/05/01/welcome.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/05/01/welcome.html</guid>
+                <pubDate>Sat, 13 Sep 2014 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html</guid>
             </item>
         
     </channel>

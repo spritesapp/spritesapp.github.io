@@ -1,0 +1,90 @@
+@media only screen and (max-width: 1024px) {
+	.main header {
+		height: 400px;
+	}
+
+	#hero-text {
+		width: 65%;
+	}
+
+	#hero-text h1 {
+		font-size: 1.5em;
+	}
+
+	#hero-text h2 {
+		font-size: 100%;
+	}
+
+	.main .content .landing .all-posts li local-time {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 850px) {
+	#sign-in {
+		display: none;
+	}
+
+	nav.primary ul li a {
+		font-size: 0.6em;
+	}
+
+	.main .content .landing .all-posts li a {
+		height: auto;
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	.primary-stripe, nav.primary {
+		height: 50px;
+	}
+
+	nav.primary {
+		padding-top: 3px;
+		padding-left: 0;
+	}
+
+	nav.primary ul {
+		display: block;
+		overflow: hidden;
+	}
+
+	nav.primary div.logo {
+		display: none;
+	}
+
+	nav.primary ul li {
+		margin-right: 0;
+		width: 19%;
+		text-align: center;
+	}
+
+	nav.primary ul li.testimonials {
+		display: none;
+	}
+
+	.main .content .landing .all-posts li {
+		width: 94%;
+	}
+
+	.post {
+    	font-size: 125%;
+	}
+
+	.post h1 {
+		font-size: 150%;
+	}
+
+	#hero-text h1 {
+		font-size: 1.2em;
+	}
+
+	#hero-text h2 {
+		font-size: 85%;
+	}
+
+	#hero-text {
+		width: 90%;
+		margin-top: 100px;
+	}
+}

@@ -32,56 +32,180 @@ ul, ul > li {
     flex-direction: column;
 }
 
-.main header {
-    position: relative;
-    background: #555152;
-    border-top: 6px solid #EB6841;
-    padding: 3rem;
-    box-shadow: inset 0 0 6px 1px rgba(0, 0, 0, 0.25);
+.font-os {
+    font-family: 'Open Sans',sans-serif;
+    font-size: 12pt;
 }
 
-.main header:after {
-    content: '';
+/* ++++++++++++++++++++ Navigation & Header. ++++++++++++++++++++ */
+
+.main header {
     display: block;
+    height: 500px;
+
+    background: url(/assets/img/cover.jpg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #C79D67;
+}
+
+.primary-stripe {
+    opacity: 0.7;
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 0;
-    height: 6px;
-    background: #555152;
+    height: 70px;
+    background-color: #333;
 }
 
-.main header a {
-    display: block;
-    text-align: center;
+nav.primary {
+    background-color: transparent;
+    z-index: 2;
+    left: 0;
+    right: 0;
+    padding-top: 14px;
+    padding-left: 20px;
+    height: 70px;
+}
+
+nav.primary div.logo {
+  display: inline-block;
+  position: relative;
+  margin-right: 26px;
+}
+
+nav.primary div.logo a {
+  display: block;
+  position: relative;
+  height: 44px;
+  width: 44px;
+}
+
+nav.primary div.logo a span {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+}
+
+nav.primary div.logo a span.back {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+}
+
+nav.primary div.logo a span.front {
+  top: 14px;
+  left: 14px;
+  background-color: #99173C;
+}
+
+nav.primary ul {
+  display: inline-block;
+  position: relative;
+}
+
+nav.primary ul li {
+  float: left;
+  margin-right: 30px;
+  line-height: 44px;
+}
+
+nav.primary ul li:last-child {
+  margin-right: 0;
+}
+
+nav.primary ul:after,
+nav.primary ul li:last-child:after {
+  clear: left;
+}
+
+nav.primary ul li a {
+  color: #fff;
+  font-size: 0.8em;
+  position: relative;
+  text-transform: uppercase;
+}
+
+#hero-text {
     margin: 0 auto;
-
-    color: #fff;
-    font-size: 250%;
-    text-decoration: none;
-}
-
-.main header a span {
-    color: #EB6841;
-}
-
-.main nav {
-    border-bottom: 1px solid #ddd;
-    padding: 1rem;
-    display: table;
-    width: 100%;
-}
-
-.main nav ul {
-    display: table-cell;
     text-align: center;
+    width: 50%;
+    margin-top: 125px;
+    color: #FFF;
+    text-shadow: 1px -1px 3px #7C7C7C;
+    font-size: 150%;
 }
 
-.main nav ul li {
+#hero-text h2 {
+    margin-top: 0;
+    font-size: 125%;
+    line-height: 150%;
+}
+
+#hero-text h2 a {
     display: inline-block;
-    text-align: center;
-    padding: 0 1em;
+    padding: 0px 7px;
+    background: #EB6841;
+    color: #FFF;
+    text-decoration: none;
+    margin: 0 5px;
+    text-shadow: none;
 }
+
+#hero-text h2 a:hover {
+    background-color: #E26039;
+}
+
+#hero-text h2 a:active {
+  -webkit-transform: translateY(2px);
+  -moz-transform: translateY(2px);
+  -ms-transform: translateY(2px);
+  -o-transform: translateY(2px);
+}
+
+
+/* ++++++++++++++++++++ End: Navigation & Header. ++++++++++++++++++++ */
+
+/* ++++++++++++++++++++ "Sign In" button. ++++++++++++++++++++ */
+
+#sign-in {
+  position: absolute;
+  right: 20px;
+  top: 18px;
+  z-index: 99999;
+}
+
+#sign-in a {
+  display: block;
+  overflow: hidden;
+  font-size: .8em;
+  text-transform: uppercase;
+  background-color: #EB6841;
+  color: #FFF;
+  padding: 0 15px;
+}
+
+#sign-in a span,
+#sign-in a .icon {
+  float: left;
+  line-height: 36px;
+}
+
+#sign-in a:hover {
+  background-color: #E26039;
+}
+
+#sign-in a:active {
+  -webkit-transform: translateY(2px);
+  -moz-transform: translateY(2px);
+  -ms-transform: translateY(2px);
+  -o-transform: translateY(2px);
+}
+
+/* ++++++++++++++++++++ End: "Sign In" button. ++++++++++++++++++++ */
 
 .main .content {
     flex: 1;
@@ -92,22 +216,88 @@ ul, ul > li {
     padding: 0 1em;
 }
 
+/* ++++++++++++++++++++ Footer. ++++++++++++++++++++ */
+
 .main footer {
-    padding: 0.5em;
+    padding: 1em;
     text-align: center;
+    background: #F4F4F4;
 }
 
 .main footer small {
     color: #c3c3c3;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.main footer small.last {
+    margin-bottom: 0;
+}
+
+/* ++++++++++++++++++++ End: Footer. ++++++++++++++++++++ */
+
+body.landing {
+    background: #f4f4f4;
+}
+
+body.landing .content {
+    max-width: 960px;
+}
+
+.main .content .landing .all-posts {
+    margin-left: 2%;
 }
 
 .main .content .landing .all-posts li {
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    vertical-align: top;
+}
+
+.main .content .landing .all-posts li a {
+    height: 200px;
+    display: block;
+    padding: 10px;
+    position: relative;
+    background: #fff;
+    color: #525252;
+    text-decoration: none;
+    text-shadow: -1px 1px 3px #fff;
+    border: 1px solid transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+.main .content .landing .all-posts li a:hover {
+    border-color: #F79376;
+
+    -webkit-box-shadow: 0 0 10px #F5AB94;
+    box-shadow: 0 0 10px #F5AB94;
+}
+
+.main .content .landing .all-posts li a span {
+    display: block;
+    margin-bottom: 15px;
     line-height: 150%;
 }
 
+.main .content .landing .all-posts li a span.title {
+    font-size: 125%;
+    font-weight: bold;
+    color: #FA7E59;
+}
+
 .main .content .landing .all-posts li local-time {
-    display: inline-block;
-    width: 5rem;
+    display: block;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #9D9D9D;
 }
 
 /* Posts */
@@ -117,11 +307,12 @@ ul, ul > li {
 }
 
 .post h1 {
-    line-height: 115%;
+    line-height: 150%;
+    margin-bottom: 65px;
 }
 
 .post p {
-    line-height: 150%;
+    line-height: 160%;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
@@ -131,9 +322,42 @@ ul, ul > li {
     margin: 0 auto;
     border: 1px solid #c3c3c3;
     box-shadow: 1px 1px 5px #F4F4F4;
+    max-width: 90%;
 }
 
 .post img.image-plain {
     border: none !important;
     box-shadow: none !important;
+}
+
+.post .youtube-video {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #c3c3c3;
+}
+
+#social-sharing {
+    margin: 0 0 40px;
+    overflow: hidden;
+}
+
+#social-sharing .left {
+    float: left;
+    line-height: 32px;
+}
+
+#social-sharing .left label,
+#social-sharing .right label {
+    font-weight: normal;
+    display: inline-block;
+    line-height: 32px;
+    margin: 0 10px;
+}
+
+#social-sharing .right {
+    float: right;
+}
+
+#social-sharing .right span {
+    vertical-align: middle;
 }

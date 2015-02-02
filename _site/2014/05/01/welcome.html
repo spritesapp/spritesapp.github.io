@@ -16,27 +16,73 @@
         <meta property="og:type" content="website" />
 
         <link rel="stylesheet" href="/assets/css/normalize.css" type="text/css" />
-        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic" type="text/css" />
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400" type="text/css" />
+        <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic" type="text/css" />
         <link rel="stylesheet" href="/assets/css/site.css" />
+        <link rel="stylesheet" href="/assets/css/responsive.css" />
     </head>
 
-    <body>
+    <body class="">
         <section class="main">
             <header>
-                <a href="/" title="Sprites Blog">Sprites / <span>Blog</span></a>
+                <div class="primary-stripe"></div>
+
+                <nav class="primary font-os">
+                    <div class="logo">
+                        <a href="/" title="Sprites">
+                            <span class="back"></span>
+                            <span class="front"></span>
+                        </a>
+                    </div>
+
+                    <ul>
+                        <li>
+                            <a href="https://spritesapp.com/features">Features</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/video">Video</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/examples">Examples</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/pricing">Pricing</a>
+                        </li>
+
+                        <li class="testimonials">
+                            <a href="https://spritesapp.com/testimonials">Testimonials</a>
+                        </li>
+
+                        <li>
+                            <a href="https://spritesapp.com/contact">Contact</a>
+                        </li>
+                    </ul>
+                </nav>
+
+                <div id="sign-in" class="font-os">
+                    <a href="https://spritesapp.com/edit">
+                        <span>Sign in</span>
+                    </a>
+                </div>
+
+                <div id="hero-text">
+                    <h1>All Things Visualized.</h1>
+                    <h2>A blog about data visualization from the <a href="https://spritesapp.com">Sprites</a> team.</h2>
+                </div>
+                
             </header>
 
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="https://spritesapp.com/features">About</a></li>
-                    <li><a href="https://spritesapp.com/contact">Contact</a></li>
-                    <li><a href="/feed.xml">RSS</a></li>
-                </ul>
-            </nav>
+            
 
             <div class="content">
-                <article class="post">
+                <div class="top-bar">
+	<a href="/">&laquo;&nbsp;Go back</a>
+</div>
+
+<article class="post">
     <h1 id="welcome">Welcome!</h1>
 
 <p>Welcome to our blog! Here we will be posting information about new and upcoming features, interesting use cases, social events within Sprites and its community and everything else that is related to data visualization.</p>
@@ -48,10 +94,40 @@
 <p>Sprites team.</p>
 
 </article>
+
+<div id="social-sharing">
+	<div class="right">
+		<span class='st_facebook_large' displayText='Facebook'></span>
+		<span class='st_twitter_large' displayText='Tweet'></span>
+		<span class='st_linkedin_large' displayText='LinkedIn'></span>
+		<span class='st_pinterest_large' displayText='Pinterest'></span>
+		<span class='st_email_large' displayText='Email'></span>
+	</div>
+</div>
+
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "905eea45-0f7e-48c4-bd83-9d7988270901", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'spritesblog'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
             </div>
 
             <footer>
-                <small>&copy; 2014 Sprites</small>
+                <small><a href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/feed.xml" title="RSS feed">RSS Feed</a></small>
+                <small class="last">&copy; 2015 Sprites</small>
             </footer>
         </section>
 
