@@ -7,6 +7,29 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Strong teams move faster</title>
+                <description>&lt;h1 id=&quot;strong-teams-move-faster&quot;&gt;Strong teams move faster&lt;/h1&gt;
+
+&lt;p&gt;Dear friends,&lt;/p&gt;
+
+&lt;p&gt;We are continuing this year with some really exciting news: Sprites is happy to welcome our new family member - &lt;strong&gt;Daniela Alvarez&lt;/strong&gt; (Denny). &lt;/p&gt;
+
+&lt;p&gt;Denny is joining Sprites as our own Chief Marketing Officer and a head of Business Development. With a keen eye for marketing and all things visual, she became the perfect candidate to bring Sprites, as a company, to new heights. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/team-denny.jpg&quot; alt=&quot;Daniela Alvarez&quot; title=&quot;Daniela Alvarez&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A globe trotter who was born in USA, raised in Mexico, crazed-up in China and educated in Canada, Denny brings new ideas with focus and decision. An art and design enthusiast herself who decided to follow her true passion and pursue Business and Marketing after switching from an International Relations degree. This overly-chatty person is always here to help you so don’t hesitate to contact her anytime at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#097;&amp;#110;&amp;#105;&amp;#101;&amp;#108;&amp;#097;&amp;#046;&amp;#097;&amp;#108;&amp;#118;&amp;#097;&amp;#114;&amp;#101;&amp;#122;&amp;#064;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#097;&amp;#112;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#100;&amp;#097;&amp;#110;&amp;#105;&amp;#101;&amp;#108;&amp;#097;&amp;#046;&amp;#097;&amp;#108;&amp;#118;&amp;#097;&amp;#114;&amp;#101;&amp;#122;&amp;#064;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#097;&amp;#112;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Sprites was created with the motive to enable everyone to create crisp visual content in the simplest and cleanest way. Denny comes in to spread every component of this vision. &lt;/p&gt;
+
+&lt;p&gt;Welcome to the family! &lt;/p&gt;
+</description>
+                <pubDate>Wed, 04 Feb 2015 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2015/02/04/strong-teams-move-faster.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/02/04/strong-teams-move-faster.html</guid>
+            </item>
+        
+            <item>
                 <title>Exporting your infographic to PDF</title>
                 <description>&lt;h1 id=&quot;exporting-your-infographic-to-pdf&quot;&gt;Exporting your infographic to PDF&lt;/h1&gt;
 
@@ -305,43 +328,6 @@
                 <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
                 <link>http://blog.spritesapp.com/2014/09/16/and-the-free-ticket-to-web-summit-goes-to-primetag.html</link>
                 <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/16/and-the-free-ticket-to-web-summit-goes-to-primetag.html</guid>
-            </item>
-        
-            <item>
-                <title>Displaying live data in your infographics</title>
-                <description>&lt;h1 id=&quot;displaying-live-data-in-your-infographics&quot;&gt;Displaying live data in your infographics&lt;/h1&gt;
-
-&lt;p&gt;We’re excited to announce a new major feature in &lt;a href=&quot;https://spritesapp.com&quot;&gt;Sprites&lt;/a&gt; - an ability to display live data in your infographics. This is achieved by connecting selected elements (such as charts, tables, images, etc.) to third-party data sources. &lt;/p&gt;
-
-&lt;p&gt;Connecting your Sprites elements to live data feeds makes it possible to display various real-time data such as competition results, voting results, live feeds from the various events and so on. This, in turn, will make your infographics much more engaging and up-to-date with latest information on specific topics.&lt;/p&gt;
-
-&lt;p&gt;Here’s how it works. When you hover over an element in Sprites editor, you may notice that there’s a new context menu item which now appears (it has a “lightning” icon):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/realtime-contextmenu.png&quot; alt=&quot;Connect to live data feed&quot; title=&quot;Connect to live data feed&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once clicked, a modal window appears allowing you to configure live data feed for the given element:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/realtime-dialog.png&quot; alt=&quot;Connect to live data feed - dialog&quot; title=&quot;Connect to live data feed - dialog&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Every Sprites element works with its own data format. For example, Fact element, among other things, accepts (or “understands”) three properties: “quantity”, “measure” and “description” that can be set by using the respective form fields when you’re composing your infographic inside the editor.&lt;/p&gt;
-
-&lt;p&gt;When using live data feeds, Sprites expects the data in a same format to be returned from the feed. For example, when you connect your Fact element to Google Sheets, you will need to define three columns in your spreadsheet: “quantity”, “measure” and “description”. This way Sprites can easily pick up cell values for each of the columns and display them to the user.&lt;/p&gt;
-
-&lt;p&gt;Currently, we support connecting elements to Google Sheets as well as to a custom URL (which must return a valid &lt;a href=&quot;http://en.wikipedia.org/wiki/JSON&quot;&gt;JSON&lt;/a&gt; objects). Furthermore, out of the current twelve Sprites elements ten support connecting live data. The only two elements that don’t support live data feeds are Line and Widget.&lt;/p&gt;
-
-&lt;p&gt;We’ve put together a set of spreadsheets, one for each element, to illustrate how your live feed should look like. The spreadsheets are available here: &lt;a href=&quot;https://drive.google.com/open?id=0B19ekNcwy_ciME5Tcm1JdVJXMXc&amp;amp;authuser=0&quot;&gt;Sprites - Live data feeds&lt;/a&gt;. If you’d like to test elements yourself, feel free to use the links to the respective sample spreadsheets in your infographics (open the spreadsheet in your browser, copy the URL from the browser address bar and use that URL when configuring your element). &lt;/p&gt;
-
-&lt;p&gt;There’s also a quite comprehensive documentation on live data format available on our GitHub Wiki: &lt;a href=&quot;https://github.com/spritesapp/sprites-sdk/wiki/Live-data-format&quot;&gt;Live data format - Sprites&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Try it out and let us know what you think! You can connect with us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or by sending us a message via our &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-
-&lt;p&gt;Sprites team.&lt;/p&gt;
-</description>
-                <pubDate>Sat, 13 Sep 2014 00:00:00 -0400</pubDate>
-                <link>http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html</guid>
             </item>
         
     </channel>
