@@ -64,7 +64,15 @@
 	}
 
 	.main .content .landing .all-posts li {
-		width: 94%;
+		width: 94% !important;
+	}
+
+	.main .content .landing .all-posts li:nth-child(1) a span.excerpt {
+		display: block !important;
+	}
+
+	.main .content .landing .all-posts li:nth-child(1) a span.excerpt-large {
+		display: none !important;
 	}
 
 	.post {
