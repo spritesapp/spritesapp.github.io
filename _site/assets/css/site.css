@@ -209,7 +209,7 @@ nav.primary ul li a {
 
 .main .content {
     flex: 1;
-    max-width: 760px;
+    max-width: 800px;
     margin: 0 auto;
     margin-top: 2em;
     margin-bottom: 2em;
@@ -286,6 +286,10 @@ body.landing .content {
     line-height: 150%;
 }
 
+.main .content .landing .all-posts li a span.excerpt-large {
+  display: none;
+}
+
 .main .content .landing .all-posts li a span.title {
     font-size: 125%;
     font-weight: bold;
@@ -299,6 +303,23 @@ body.landing .content {
     left: 10px;
     color: #9D9D9D;
 }
+
+.main .content .landing .all-posts li:nth-child(1) {
+  width: calc(90% + 24px);
+}
+
+.main .content .landing .all-posts li:nth-child(1) a span.excerpt {
+  display: none;
+}
+
+.main .content .landing .all-posts li:nth-child(1) a span.excerpt-large {
+  display: block;
+}
+
+.main .content .landing .all-posts li:nth-child(1) a span.excerpt-large span.title {
+  font-size: 185%;
+}
+
 
 /* Posts */
 
@@ -322,7 +343,7 @@ body.landing .content {
     margin: 0 auto;
     border: 1px solid #c3c3c3;
     box-shadow: 1px 1px 5px #F4F4F4;
-    max-width: 75%;
+    max-width: 80%;
 }
 
 .post img.image-plain {

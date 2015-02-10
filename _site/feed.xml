@@ -7,6 +7,53 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Introducing real-time collaboration in Sprites</title>
+                <description>&lt;h1 id=&quot;introducing-real-time-collaboration-in-sprites&quot;&gt;Introducing real-time collaboration in Sprites&lt;/h1&gt;
+
+&lt;p&gt;Dear friends,&lt;/p&gt;
+
+&lt;p&gt;We are super-excited to announce a new set of major features that we are making available as of today. These features are for teams and what they allow you to do is to collaborate on your Sprites infographics &lt;strong&gt;in real time&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Let’s take a look at how to use the new functionality. Live collaboration in Sprites is based on the concept of sharing your infographic with other people. And in this case “sharing” means giving them “collaborator” access so that they could edit a specific infographic even if they didn’t create it originally. To share an infographic, click on your name in the top right corner of the &lt;a href=&quot;https://spritesapp.com/edit&quot;&gt;editor&lt;/a&gt;. You will notice that the menu has been substantially improved:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/collab-user-menu.png&quot; alt=&quot;User menu&quot; title=&quot;User menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You now get two separate lists. First one (the top one) contains your own infographics and the second one (the bottom one) contains infographics that are currently shared with you. To share an infographic you need to invite collaborators which is done by clicking on “Edit” link under the “Collaborators” column. This brings up the following modal dialog:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/collab-share.png&quot; alt=&quot;Sharing infographic&quot; title=&quot;Sharing infographic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can add collaborators by typing their email addresses into the text box and clicking on “Add” button. When you’re done, click “Save” and Sprites will send out email invitations to the people you’ve specified. If the given person doesn’t have a Sprites account, he will be prompted to create one first. Note that all collaborators need to confirm their participation by clicking on a link from the email invitation.&lt;/p&gt;
+
+&lt;p&gt;Now, shared infographics behave exactly the same as the ones you’ve created yourself meaning that, as collaborator, you have nearly full control over them (changing elements, adding/removing slides, changing settings and so on). But the real power comes when you decide to work on your infographic as a team!&lt;/p&gt;
+
+&lt;p&gt;When you’ve opened a shared infographic together with someone else, you’ll notice that you now have access to a team chat located at the bottom right corner:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/collab-chat.png&quot; alt=&quot;Team chat&quot; title=&quot;Team chat&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The chat allows you to have quick, ad-hoc discussions about the work you’re currently performing, without even leaving Sprites.&lt;/p&gt;
+
+&lt;p&gt;When you’re multiple people editing the same infographic simultaneously, you’ll see each other’s updates in real time:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/collab-live-1.png&quot; alt=&quot;Real-time updates&quot; title=&quot;Real-time updates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This instant feedback is not limited to just elements of your infographic but also applies to slides:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/collab-live-2.png&quot; alt=&quot;Real-time updates on slides&quot; title=&quot;Real-time updates on slides&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We hope you’ll love the new capabilities (all of which are available to our &lt;a href=&quot;https://spritesapp.com/pricing&quot;&gt;Ultimate&lt;/a&gt; plan members)! As we mentioned, we’re extremely excited and proud of what we’ve achieved for all of you guys!&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any questions/comments/suggestions, don’t hesitate to contact us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#097;&amp;#112;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#097;&amp;#112;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt; (or by using the &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt; on our website). Also, &lt;a href=&quot;https://www.facebook.com/spritesapp&quot;&gt;like us&lt;/a&gt; on Facebook and &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;follow us&lt;/a&gt; on Twitter to get the latest product updates as well as tips and trick on making great visual content. And last, but not least: we’re now on Instagram (&lt;a href=&quot;https://instagram.com/spritesapp&quot;&gt;@spritesapp&lt;/a&gt;) where we you will be able to find everything around great visual design as well as follow our day-to-day life and culture.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2015/02/10/introducing-real-time-collaboration-in-sprites.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/02/10/introducing-real-time-collaboration-in-sprites.html</guid>
+            </item>
+        
+            <item>
                 <title>Strong teams move faster</title>
                 <description>&lt;h1 id=&quot;strong-teams-move-faster&quot;&gt;Strong teams move faster&lt;/h1&gt;
 
@@ -291,43 +338,6 @@
                 <pubDate>Sun, 28 Sep 2014 00:00:00 -0400</pubDate>
                 <link>http://blog.spritesapp.com/2014/09/28/video-infographics-are-here.html</link>
                 <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/28/video-infographics-are-here.html</guid>
-            </item>
-        
-            <item>
-                <title>And the free ticket to Web Summit goes to... PrimeTag!</title>
-                <description>&lt;h1 id=&quot;and-the-free-ticket-to-web-summit-goes-to-primetag&quot;&gt;And the free ticket to Web Summit goes to… PrimeTag!&lt;/h1&gt;
-
-&lt;p&gt;It’s with great pleasure we’d like to announce that the free ticket to Web Summit (the one the giveaway for which &lt;a href=&quot;http://blog.spritesapp.com/2014/08/19/get-your-free-ticket-to-web-summit-conference.html&quot;&gt;we announced&lt;/a&gt; last month) goes to Manuel Albuquerque and the PrimeTag team! We’ve asked Manuel a couple of questions about his product - here’s the little Q&amp;amp;A:&lt;/p&gt;
-
-&lt;h3 id=&quot;manuel-what-is-primetag-give-us-your-elevator-pitch&quot;&gt;&lt;em&gt;Manuel, what is PrimeTag? Give us your elevator pitch!&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;PrimeTag is a technology that uses an advanced algorithm to identify products or suggest similar and most profitable ones in digital contents. &lt;/p&gt;
-
-&lt;h3 id=&quot;how-did-you-come-up-with-an-idea-for-primetag&quot;&gt;&lt;em&gt;How did you come up with an idea for PrimeTag?&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;I am a surf fanatic and most of my close friends are sponsored by major surf brands. One thing I realized was that they used constantly photos and vids from their amazing trips to not only promote their skills but also their sponsoring brands. It’s funny! There was no product’s link between the photo/vid and the e-store of the brand, thus missing an opportunity right away to generate a sale. At that time I understood it was a big opportunity to tackle. In one hand to create brand’s awareness and increase sales and in the other hand to give my close friends a revenue stream. After partnering with Paulo Gaspar, this idea evolved to something that can really change the perception of online advertising. &lt;/p&gt;
-
-&lt;h3 id=&quot;whats-so-unique-about-the-product&quot;&gt;&lt;em&gt;What’s so unique about the product?&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;We use an effective product placement tool, thus shortening the path between instant interest on a product and its access to purchase. If we look closely to nowadays advertising solutions, they are still far from the most interesting point of purchase - I mean far from digital contents. Users engage with products when seen in pictures and videos and that’s the point and moment we want to give them the opportunity to know more about them - thus increasing conversion rates. Lastly, we have in place an exquisite team of senior engineers that are willing to push the limits of technology and create the most advanced algorithm on product detection in digital contents. &lt;/p&gt;
-
-&lt;h3 id=&quot;tell-us-an-interesting-fact-about-primetag&quot;&gt;&lt;em&gt;Tell us an interesting fact about PrimeTag?&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;When the idea arrived my biggest challenge was to find the right development team for the project. I really thought it was mission impossible VII, given the challenges faced. I called my partner, former CTO from our first startup, and funny fact - he and his coworker were finishing their PhD thesis exactly on the fields necessary for implementation. Together they have +10 years of experience exactly on what is needed to make this project a success.&lt;/p&gt;
-
-&lt;h3 id=&quot;thanks-manuel-see-you-in-dublin&quot;&gt;&lt;em&gt;Thanks Manuel! See you in Dublin!&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;(End of the Q&amp;amp;A)&lt;/p&gt;
-
-&lt;p&gt;We’d also like to say a huge “Thank you!” to all those amazing people who has shown their interest and told us their stories. A special “Thanks” goes to Michael Reen and the Bleepr team for their great story about the trip across Europe they’re organizing to promote their app. Hope to see you in Dublin, Michael! &lt;/p&gt;
-
-&lt;p&gt;Take care everybody!&lt;/p&gt;
-
-&lt;p&gt;Sprites team.&lt;/p&gt;
-</description>
-                <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
-                <link>http://blog.spritesapp.com/2014/09/16/and-the-free-ticket-to-web-summit-goes-to-primetag.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/16/and-the-free-ticket-to-web-summit-goes-to-primetag.html</guid>
             </item>
         
     </channel>

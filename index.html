@@ -9,7 +9,8 @@ css: landing
     {% for post in site.posts %}
         <li>
         	<a href="{{ post.url }}">
-        		<span class="excerpt"><span class="title">{{ post.content | replace: '</h1>', '#head#' | strip_html | truncatewords: 35 | replace: '#head#', '</span>' }}</span>
+        		<span class="excerpt"><span class="title">{{ post.content | replace: '</h1>', '#head#' | strip_html | truncatewords: 30 | replace: '#head#', '</span>' }}</span>
+                <span class="excerpt-large"><span class="title">{{ post.content | replace: '</h1>', '#head#' | strip_html | truncatewords: 65 | replace: '#head#', '</span>' }}</span>
         		<local-time datetime="{{ post.date }}">{{ post.date | date: "%-m/%-d/%Y" }}</local-time>
         	</a>
         </li>
