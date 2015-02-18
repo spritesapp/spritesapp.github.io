@@ -7,6 +7,43 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Import images from Dropbox, Google Drive and Flickr</title>
+                <description>&lt;h1 id=&quot;import-images-from-dropbox-google-drive-and-flickr&quot;&gt;Import images from Dropbox, Google Drive and Flickr&lt;/h1&gt;
+
+&lt;p&gt;Dear friends,&lt;/p&gt;
+
+&lt;p&gt;Last week we’ve been spending some time improving our “Image” element in order to give you more freedom and flexibility in bringing your images into Sprites. We’re excited to share some amazing results with you. Introducing a brand new &lt;strong&gt;media manager&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;First, we have slightly changed the settings page of an “Image” element: when choosing “URL” as image source, you can now see a little “folder” icon next to image URL field:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/media-picker.png&quot; alt=&quot;Media picker&quot; title=&quot;Media picker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Clicking on the “folder” icon brings up the media manager modal window:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/media-dialog.png&quot; alt=&quot;Media manager&quot; title=&quot;Media manager&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can choose image files from various sources. On the screenshot above you can see the files that I’ve uploaded earlier so it’s now super-easy to reuse images that you’ve already used elsewhere in Sprites (not necessarily on a given infographic). Just to remind you, Sprites supports the following image formats: JPG, PNG, GIF, BMP and SVG.&lt;/p&gt;
+
+&lt;p&gt;You can also choose and image from your Google Drive or Dropbox folder by clicking on “Select from…” drop-down menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/media-selectfrom.png&quot; alt=&quot;Media from external source&quot; title=&quot;Media from external source&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And last, but not least, you can now browse through public Flickr images by flipping the search filter from “Library” to “Flickr”:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/media-flickr.png&quot; alt=&quot;Search Flickr&quot; title=&quot;Search Flickr&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As always, if you have any questions/comments/suggestions, don’t hesitate to contact us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#097;&amp;#112;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#099;&amp;#111;&amp;#110;&amp;#116;&amp;#097;&amp;#099;&amp;#116;&amp;#064;&amp;#115;&amp;#112;&amp;#114;&amp;#105;&amp;#116;&amp;#101;&amp;#115;&amp;#097;&amp;#112;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt; (or by using the &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt; on our website). Also, &lt;a href=&quot;https://www.facebook.com/spritesapp&quot;&gt;like us&lt;/a&gt; on Facebook and &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;follow us&lt;/a&gt; on Twitter to get the latest product updates as well as tips and trick on making great visual content. We’ve also recently created an account on Instagram (&lt;a href=&quot;https://instagram.com/spritesapp&quot;&gt;@spritesapp&lt;/a&gt;) where we you will be able to find everything around great visual design as well as follow our day-to-day life and culture.&lt;/p&gt;
+
+&lt;p&gt;Take care!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Wed, 18 Feb 2015 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2015/02/18/import-images-from-dropbox-google-drive-and-flickr.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/02/18/import-images-from-dropbox-google-drive-and-flickr.html</guid>
+            </item>
+        
+            <item>
                 <title>Introducing real-time collaboration in Sprites</title>
                 <description>&lt;h1 id=&quot;introducing-real-time-collaboration-in-sprites&quot;&gt;Introducing real-time collaboration in Sprites&lt;/h1&gt;
 
@@ -307,37 +344,6 @@
                 <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
                 <link>http://blog.spritesapp.com/2014/10/01/latest-editor-improvements.html</link>
                 <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/01/latest-editor-improvements.html</guid>
-            </item>
-        
-            <item>
-                <title>Video infographics are here!</title>
-                <description>&lt;h1 id=&quot;video-infographics-are-here&quot;&gt;Video infographics are here!&lt;/h1&gt;
-
-&lt;p&gt;We’re extremely excited to announce the beta release of &lt;strong&gt;video infographics&lt;/strong&gt; in Sprites! With this feature you can take your entire infographic and export it to a video file. As an option you can specify an audio file of your choice which is great for adding background music or narration.&lt;/p&gt;
-
-&lt;p&gt;If you’d like to participate in our private beta program, go to &lt;a href=&quot;https://spritesapp.com/video&quot;&gt;spritesapp.com/video&lt;/a&gt;, click “Contact us”, fill out the form (don’t forget to specify your email so we can contact you back) and we will be in touch shortly with all the details you need to get started!&lt;/p&gt;
-
-&lt;p&gt;Once video export is enabled for your subscription, you’ll see a new option, “Create video”, under the “Publish” menu item:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/video-export-dialog.png&quot; alt=&quot;Create video&quot; title=&quot;Create video&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You can choose the format of your video file (read, quality) as well as an audio track to be mixed with the video. Sprites also tells you how long your infographic is going to be playing (the value is approximate although it’s very close to the actual one). When you’re ready, click “Download video” and be patient while we’re exporting your infographic. The time it will take to complete an export is greater than or equal to the length of the video so in the example above, I’d have to wait for at least 1 minute before Sprites offers me the video file. Don’t worry – you’ll be able to track the progress (there will be a countdown timer). Once the export completes, the browser will ask you to save the video file on your disk.&lt;/p&gt;
-
-&lt;p&gt;Let’s take a look at the example. Here’s a quick infographic about Stanford University (&lt;a href=&quot;https://www.youtube.com/watch?v=aYLAg78qunY&quot;&gt;watch on YouTube&lt;/a&gt;, &lt;a href=&quot;https://spritesapp.com/view/embed/12621&quot;&gt;view infographic&lt;/a&gt;):&lt;/p&gt;
-
-&lt;iframe class=&quot;youtube-video&quot; width=&quot;640&quot; height=&quot;480&quot; src=&quot;//www.youtube.com/embed/aYLAg78qunY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Once again, got to &lt;a href=&quot;https://spritesapp.com/video&quot;&gt;spritesapp.com/video&lt;/a&gt; and sign up for a beta today!&lt;/p&gt;
-
-&lt;p&gt;And as always, if you have any feedback (questions, comments, bug reports, etc.) - don’t hesitate to reach out to us by using the &lt;a href=&quot;https://spritesapp.com/contact&quot;&gt;contact form&lt;/a&gt; or connect with us via &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-
-&lt;p&gt;Sprites team.&lt;/p&gt;
-</description>
-                <pubDate>Sun, 28 Sep 2014 00:00:00 -0400</pubDate>
-                <link>http://blog.spritesapp.com/2014/09/28/video-infographics-are-here.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/09/28/video-infographics-are-here.html</guid>
             </item>
         
     </channel>
