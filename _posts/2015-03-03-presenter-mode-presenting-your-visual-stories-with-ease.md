@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Presenter mode: Presenting your visual stories with ease
+title: Presenter mode&#58; Presenting your visual stories with ease
 ---
 
-# Presenter mode: Presenting your visual stories with ease
+# Presenter mode&#58; Presenting your visual stories with ease
 
 Presenting your Sprites infographics in front of a live audience just got so much better and easier! Let's take a look at the brand new "Presenter" mode.
 
@@ -17,7 +17,7 @@ When you're ready to present, hover over the "View & present" menu item at the t
 
 ![Present choice](/assets/img/posts/present-choice.png "Present choice")
 
-A tip: You can load any Sprites infographic in a "Presenter" mode by appending **?presenter=1** to the URL.
+A tip: You can load any Sprites infographic in a "Presenter" mode by appending "**?presenter=1**" to the URL.
 
 That's all for now, happy presenting!
 
