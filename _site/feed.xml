@@ -7,6 +7,90 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Introducing theme customizer</title>
+                <description>&lt;h1 id=&quot;introducing-theme-customizer&quot;&gt;Introducing theme customizer&lt;/h1&gt;
+
+&lt;p&gt;Today we’re excited to share great news with you: we’ve just released a feature update that allows you to effortlessly create amazing personalized design themes in Sprites. Let’s quickly go through the new functionality to see it in action.&lt;/p&gt;
+
+&lt;p&gt;First, we’ve changed the way themes are laid out in the “Infographic settings” modal window. Now the drop-down list looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-presentation-settings.png&quot; alt=&quot;Infographic settings&quot; title=&quot;Infographic settings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s still a way for you to completely customize the given theme if you’re familiar with &lt;a href=&quot;http://en.wikipedia.org/wiki/Cascading_Style_Sheets&quot;&gt;CSS&lt;/a&gt; but it’s now also possible to create a new one right in Sprites. This is done by selecting “Make your own” in the drop-down list.&lt;/p&gt;
+
+&lt;p&gt;Once the selection is made, a new modal window appears:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-step-1.png&quot; alt=&quot;Create theme step 1&quot; title=&quot;Create theme step 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Under the first step of this simple 3-step wizard you’re prompted to pick an existing theme that you wish to customize (this can be one of the standard themes or even your own theme that you’ve uploaded earlier). When the selection is made, click “Next” to move to the next step.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-step-2.png&quot; alt=&quot;Create theme step 2&quot; title=&quot;Create theme step 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Under the second step you’re able customize previously selected theme by changing things like font family and color, accent colors, background color and image. You can now also specify a business logo that will be automatically displayed on every slide (something many of our users have been asking for).&lt;/p&gt;
+
+&lt;p&gt;There’s a huge collection of various free fonts available to you via our Google Fonts integration. Start typing inside a text box to search for a particular font:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-step-2-fonts.png&quot; alt=&quot;Create theme step 2 fonts&quot; title=&quot;Create theme step 2 fonts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also place your mouse pointer over the little “Text” icon on the right of each font to see how it looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-step-2-font-preview.png&quot; alt=&quot;Create theme step 2 font preview&quot; title=&quot;Create theme step 2 font preview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Similar “Preview” overlay is available for image fields (background image and business logo):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-step-2-image-preview.png&quot; alt=&quot;Create theme step 2 image preview&quot; title=&quot;Create theme step 2 image preview&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you’re satisfied with your customization, click “Next” to go to the last step.&lt;/p&gt;
+
+&lt;p&gt;Under the third (and the last) step you can pick a new name for your theme:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-step-3.png&quot; alt=&quot;Create theme step 3&quot; title=&quot;Create theme step 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you’re done, click “Create theme” to generate a theme file that will be put into Sprites (the newly created theme will only be visible to you). After the theme is created, you’ll be redirected back to the “Infographic settings” modal with your new theme pre-selected.&lt;/p&gt;
+
+&lt;p&gt;Here’s a quick example of how you can take a standard Sprites theme and make something extremely pink out of it:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/create-theme-slide-example.png&quot; alt=&quot;Hello Kitty&quot; title=&quot;Hello Kitty&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We hope you’ll love the new theme customizer. Share your infographics with us by mentioning us on Facebook (&lt;a href=&quot;http://facebook.com/spritesapp&quot;&gt;Sprites&lt;/a&gt;) or Twitter (&lt;a href=&quot;http://twitter.com/spritesapp&quot;&gt;@spritesapp&lt;/a&gt;) as well as by adding a hashtag &lt;a href=&quot;https://twitter.com/hashtag/spritesapp&quot;&gt;#spritesapp&lt;/a&gt; and we will make sure to spread the word about your story!&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Sun, 19 Apr 2015 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2015/04/19/introducing-theme-customizer.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/04/19/introducing-theme-customizer.html</guid>
+            </item>
+        
+            <item>
+                <title>Presenter mode&amp;#58; Presenting your visual stories with ease</title>
+                <description>&lt;h1 id=&quot;presenter-mode58-presenting-your-visual-stories-with-ease&quot;&gt;Presenter mode: Presenting your visual stories with ease&lt;/h1&gt;
+
+&lt;p&gt;Presenting your Sprites infographics in front of a live audience just got so much better and easier! Let’s take a look at the brand new “Presenter” mode.&lt;/p&gt;
+
+&lt;p&gt;When you bring up the “Publish” dialog, you will notice that there’s now a new tab called “Present”:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/present-settings.png&quot; alt=&quot;Present settings&quot; title=&quot;Present settings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can configure how your infographic looks and behaves when your intent is to present it on a large screen. For example, you may want to tweak default animations (by either minimizing them or turning them off completely). You can also tell Sprites to remind you to go fullscreen when infographic is about to be shown (you can always manually enter or exit fullscreen mode by pressing F11 key on your keyboard).&lt;/p&gt;
+
+&lt;p&gt;When you’re ready to present, hover over the “View &amp;amp; present” menu item at the top bar in the Editor and choose “Present”:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/present-choice.png&quot; alt=&quot;Present choice&quot; title=&quot;Present choice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A tip: You can load any Sprites infographic in a “Presenter” mode by appending “&lt;strong&gt;?presenter=1&lt;/strong&gt;” to the URL.&lt;/p&gt;
+
+&lt;p&gt;That’s all for now, happy presenting!&lt;/p&gt;
+
+&lt;p&gt;Sprites team.&lt;/p&gt;
+</description>
+                <pubDate>Tue, 03 Mar 2015 00:00:00 -0500</pubDate>
+                <link>http://blog.spritesapp.com/2015/03/03/presenter-mode-presenting-your-visual-stories-with-ease.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/03/03/presenter-mode-presenting-your-visual-stories-with-ease.html</guid>
+            </item>
+        
+            <item>
                 <title>Import images from Dropbox, Google Drive and Flickr</title>
                 <description>&lt;h1 id=&quot;import-images-from-dropbox-google-drive-and-flickr&quot;&gt;Import images from Dropbox, Google Drive and Flickr&lt;/h1&gt;
 
@@ -262,88 +346,6 @@
                 <pubDate>Tue, 14 Oct 2014 00:00:00 -0400</pubDate>
                 <link>http://blog.spritesapp.com/2014/10/14/spread-a-word-about-sprites.html</link>
                 <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/14/spread-a-word-about-sprites.html</guid>
-            </item>
-        
-            <item>
-                <title>Displaying data from Google Analytics in Sprites</title>
-                <description>&lt;h1 id=&quot;displaying-data-from-google-analytics-in-sprites&quot;&gt;Displaying data from Google Analytics in Sprites&lt;/h1&gt;
-
-&lt;p&gt;We’ve just released a nice little addition to our “&lt;a href=&quot;http://blog.spritesapp.com/2014/09/13/displaying-live-data-in-your-infographics.html&quot;&gt;Live Data Feeds&lt;/a&gt;” feature: you can now display real-time data from Google Analytics in Sprites!&lt;/p&gt;
-
-&lt;p&gt;The whole setup process should be really straightforward (especially for those who used to compose custom reports in Google Analytics). There’s now a new option called “Google Analytics” which is available in the “Live data” modal dialog (to bring up the modal, select an element and click on a little “Bolt” icon in the context menu):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/ga-mappings.png&quot; alt=&quot;Google Analytics - Mappings&quot; title=&quot;Google Analytics - Mappings&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The “View ID” (formerly, “Profile ID”) field allows you to specify where to read your Google Analytics data from (if you have a Google Analytics account, you should have at least one view or a profile). Next, you can choose for which date period to select the data (for example, you can tell Sprites to pull the numbers for the last month or for the entire year). The last thing you need to do is you need to tell Sprites which Google Analytics data goes where for the given element by using the “Assign metrics to fields” table (in the example above I’m mapping “Bounce rate” to the percentage of items to highlight in the “Figure” element).&lt;/p&gt;
-
-&lt;p&gt;Here’s another example. Let’s say on a bar chart you’d like to display the number of user sessions by browser. In this case the settings will look a bit different:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/ga-anydata.png&quot; alt=&quot;Google Analytics - Any data&quot; title=&quot;Google Analytics - Any data&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, you simply select the dimension (in this case, “Platform or Device: Browser”) and the metric (in this case, “Sessions: Sessions”) and Sprites will show a nice-looking bar chart based on this information. Again, all this should be really straightforward for people who used to work with custom reports in Google Analytics.&lt;/p&gt;
-
-&lt;p&gt;Searching for specific dimension or metric is also extremely simple: just start typing what you’re looking for and Sprites will offer you options based on what’s available in Google Analytics:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/ga-autocomplete.png&quot; alt=&quot;Google Analytics - Suggestions&quot; title=&quot;Google Analytics - Suggestions&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating amazing infographics and online presentations!&lt;/p&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-
-&lt;p&gt;Sprites team.&lt;/p&gt;
-</description>
-                <pubDate>Tue, 07 Oct 2014 00:00:00 -0400</pubDate>
-                <link>http://blog.spritesapp.com/2014/10/07/displaying-your-google-analytics-data-in-sprites.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/07/displaying-your-google-analytics-data-in-sprites.html</guid>
-            </item>
-        
-            <item>
-                <title>Latest editor improvements</title>
-                <description>&lt;h1 id=&quot;latest-editor-improvements&quot;&gt;Latest editor improvements&lt;/h1&gt;
-
-&lt;p&gt;Although we’re working hard on getting &lt;a href=&quot;https://spritesapp.com/video&quot;&gt;video infographics&lt;/a&gt; out of the beta, we still spend quite alot of time improving the overal experience and satisfying your wishes :-) Let’s take a look at what has been added to Sprites during the last week.&lt;/p&gt;
-
-&lt;h3 id=&quot;locking-elements-in-a-given-position&quot;&gt;Locking elements in a given position&lt;/h3&gt;
-
-&lt;p&gt;You can now lock an element in its current position so that you don’t accidentally move it. In order to lock an element, click on a “lock” icon which is now available within the element’s context menu:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-lock.png&quot; alt=&quot;Locking element position&quot; title=&quot;Locking element position&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;displaying-elements-current-coordinates-when-moving&quot;&gt;Displaying element’s current coordinates when moving&lt;/h3&gt;
-
-&lt;p&gt;Sometime you want to get really precise when moving elements around. Now you can actually see element’s current position (X/Y coordinates) when you are dragging it with your mouse:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-coordinates.png&quot; alt=&quot;Element coordinates&quot; title=&quot;Element coordinates&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;selecting-multiple-elements&quot;&gt;Selecting multiple elements&lt;/h3&gt;
-
-&lt;p&gt;This one is a long-awaited feature! You can now select multiple elements with your mouse the same way you select icons on your desktop. When multiple elements are selected, you can move them around as a whole or you can delete them altogether:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-multi-select.png&quot; alt=&quot;Selecting multiple elements&quot; title=&quot;Selecting multiple elements&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;more-precise-font-size-selection&quot;&gt;More precise font size selection&lt;/h3&gt;
-
-&lt;p&gt;When editing text, it’s sometimes hard to match the font size among multiple blocks using the “Font size” slider. As part of the latest update you can see what’s the current font size being selected for a given text:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-font-size.png&quot; alt=&quot;Text font size&quot; title=&quot;Text font size&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;various-sizes-for-events-element&quot;&gt;Various sizes for Events element&lt;/h3&gt;
-
-&lt;p&gt;The Events element gained an improvement: you can now specify its relative size using the radio buttons:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/editor-relative-events.png&quot; alt=&quot;Events element size&quot; title=&quot;Events element size&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And that’s all for now!&lt;/p&gt;
-
-&lt;p&gt;As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating amazing infographics and online presentations!&lt;/p&gt;
-
-&lt;p&gt;All the best,&lt;/p&gt;
-
-&lt;p&gt;Pavel and Timofey.&lt;/p&gt;
-</description>
-                <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
-                <link>http://blog.spritesapp.com/2014/10/01/latest-editor-improvements.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/01/latest-editor-improvements.html</guid>
             </item>
         
     </channel>
