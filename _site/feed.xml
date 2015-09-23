@@ -7,6 +7,45 @@
         <atom:link href="http://blog.spritesapp.com/feed.xml" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Sprites turns one!</title>
+                <description>&lt;h1 id=&quot;sprites-turns-one&quot;&gt;Sprites turns one!&lt;/h1&gt;
+
+&lt;p&gt;Time flies! This week Sprites has officially turned one year. It’s been an amazing journey and I’m looking forward to the next year, full of new discoveries, brilliant thoughts and unforgettable moments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;image-plain&quot; src=&quot;/assets/img/posts/hb-sprites.png&quot; alt=&quot;Happy Birthday Sprites!&quot; title=&quot;Happy Birthday Sprites!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This week we are also celebrating a &lt;strong&gt;20,000&lt;/strong&gt; sign-up mark! Thank you for being with us, folks. You’re awesome!&lt;/p&gt;
+
+&lt;h2 id=&quot;quick-numbers&quot;&gt;Quick numbers&lt;/h2&gt;
+
+&lt;p&gt;To quickly recap on this year’s progress so far, things are looking very good and we are seeing a positive trend in our userbase growth (we expect to hit a 25,000 figure by end of year):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/posts/hb-registered.jpg&quot;&gt;
+&lt;img src=&quot;/assets/img/posts/hb-registered.jpg&quot; alt=&quot;Registered users, 2015&quot; title=&quot;Registered users, 2015&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As for what we’ve been occupied with lately, this little chart pretty much says it all:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/img/posts/hb-tasks.jpg&quot;&gt;
+&lt;img src=&quot;/assets/img/posts/hb-tasks.jpg&quot; alt=&quot;Task allocation&quot; title=&quot;Task allocation&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As you may have noticed, we’ve been pretty quiet on Facebook and Twitter lately. That’s because we’ve decieded to put extra effor in fixing what’s currently broken and making Sprites a little bit more useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;plans-for-the-near-future&quot;&gt;Plans for the near future&lt;/h2&gt;
+
+&lt;p&gt;We have a lot planned, some of what we expect to realise by end of this year. To summarize it all in one sentence: we want to make Sprites a truly valuable tool which will give a new meaning and help you visualize and present the information you work with daily.&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;Pavel Volgarev (founder, Sprites).&lt;/p&gt;
+</description>
+                <pubDate>Tue, 22 Sep 2015 00:00:00 -0400</pubDate>
+                <link>http://blog.spritesapp.com/2015/09/22/sprites-turns-one.html</link>
+                <guid isPermaLink="true">http://blog.spritesapp.com/2015/09/22/sprites-turns-one.html</guid>
+            </item>
+        
+            <item>
                 <title>Recording a voice-over for your Sprites video infographics</title>
                 <description>&lt;h1 id=&quot;recording-a-voice-over-for-your-sprites-video-infographics&quot;&gt;Recording a voice-over for your Sprites video infographics&lt;/h1&gt;
 
@@ -309,33 +348,6 @@
                 <pubDate>Tue, 04 Nov 2014 00:00:00 -0500</pubDate>
                 <link>http://blog.spritesapp.com/2014/11/04/introducing-slide-templates.html</link>
                 <guid isPermaLink="true">http://blog.spritesapp.com/2014/11/04/introducing-slide-templates.html</guid>
-            </item>
-        
-            <item>
-                <title>Automatically uploading your video infographics on YouTube</title>
-                <description>&lt;h1 id=&quot;automatically-uploading-your-video-infographics-on-youtube&quot;&gt;Automatically uploading your video infographics on YouTube&lt;/h1&gt;
-
-&lt;p&gt;Hello folks!&lt;/p&gt;
-
-&lt;p&gt;We’ve got a new, very handy feature for you today: when exporting your Sprites infographic to a video, you can now enable “Send to YouTube” option which will automatically upload your infographic on YouTube once the export is finished! This makes it so much easier to share and spread great visual stories - definitely a huge win!&lt;/p&gt;
-
-&lt;p&gt;Here’s now the “Publish” dialog now looks like when you choose “Create video” option:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/youtube-upload.png&quot; alt=&quot;YouTube publish&quot; title=&quot;YouTube publish&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Clicking “Enabled” next to “Send to YouTube” will bring up a new window where you’ll be kindly asked to give Sprites permission for uploading videos on your behalf. &lt;/p&gt;
-
-&lt;p&gt;Note that your video will be in &lt;strong&gt;“unlisted”&lt;/strong&gt; state in case you’d like to edit its title, description or tags before making it available to the public.&lt;/p&gt;
-
-&lt;p&gt;We hope you’ll love the new functionality. As usual, like us on &lt;a href=&quot;https://facebook.com/spritesapp&quot;&gt;Facebook&lt;/a&gt; or follow us on &lt;a href=&quot;https://twitter.com/spritesapp&quot;&gt;Twitter&lt;/a&gt; to get product updates, hints and tips on creating great-looking visual content!&lt;/p&gt;
-
-&lt;p&gt;Cheers!&lt;/p&gt;
-
-&lt;p&gt;Sprites team.&lt;/p&gt;
-</description>
-                <pubDate>Tue, 21 Oct 2014 00:00:00 -0400</pubDate>
-                <link>http://blog.spritesapp.com/2014/10/21/automatically-uploading-your-video-infographics-on-youtube.html</link>
-                <guid isPermaLink="true">http://blog.spritesapp.com/2014/10/21/automatically-uploading-your-video-infographics-on-youtube.html</guid>
             </item>
         
     </channel>
