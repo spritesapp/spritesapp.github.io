@@ -11,7 +11,7 @@ Effective immediately we will not be accepting new sign-ups for our "Pro" and "U
 
 Existing paid uses will be able to export their infographics into images, PDFs or videos using the standard functionality. If you're a free subscriber and wish to export your data, please reach out to Pavel at pavel.volgarev@spritesapp.com (please include the email you've used to sign-up). 
 
-Users who are seeking for a replacement service, are recommended to try the following great alternatives: [Infogr.am](https://infogr.am/), [Piktochart](https://piktochart.com/) or [Canva](https://www.canva.com/create/infographics/).
+Users who are seeking for a replacement service, are recommended to try the following great alternatives: [Infogr.am](https://infogr.am/), [Piktochart](https://piktochart.com/), [Slides](https://slides.com/) or [Canva](https://www.canva.com/create/infographics/).
 
 It was an amazing journey. Thank you for being part of it.
 
