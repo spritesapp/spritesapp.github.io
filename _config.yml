@@ -2,4 +2,3 @@ exclude: ["CNAME", "README.md"]
 markdown: kramdown
 name: Sprites
 description: A blog about data visualization.
-url: http://blog.spritesapp.com
